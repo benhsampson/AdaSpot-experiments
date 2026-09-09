@@ -31,7 +31,7 @@ def load_model(model_name):
     args.dataset = cfg['data']['dataset']
     args.num_classes = cfg['data']['num_classes']
     classes = load_classes(f'data/{args.dataset}/class.txt')
-    revision_file = ROOT / 'validation/model.json'
+    revision_file = ROOT / f'validation/{model_name}.json'
     if revision_file.exists():
         source = json.loads(revision_file.read_text())
         assert source['model'] == model_name
@@ -48,7 +48,7 @@ def load_model(model_name):
     # Check actual tensor values, not only matching names and shapes.
     actual = model._model.state_dict()
     assert all(torch.equal(actual[k].cpu(), v) for k, v in state.items())
-    save('checkpoint.json', {**source, 'sha256': digest, 'bytes': Path(checkpoint).stat().st_size,
+    save(f'{model_name}_checkpoint.json', {**source, 'sha256': digest, 'bytes': Path(checkpoint).stat().st_size,
          'parameters': sum(p.numel() for p in model._model.parameters()), 'state_tensors': len(state),
          'strict_load': True, 'all_tensors_equal': True, 'missing_keys': [], 'unexpected_keys': [],
          'module_type': type(model._model).__qualname__, 'config': cfg})
@@ -58,10 +58,25 @@ def load_model(model_name):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument('stage', choices=['checkpoint'])
-    p.add_argument('--model', default='Tennis_big')
+    p.add_argument('stage', choices=['checkpoint', 'smoke', 'evaluate', 'train'])
+    p.add_argument('--model', default='FineGym_big')
     args = p.parse_args()
-    load_model(args.model)
+    torch.set_num_threads(8)
+    model, cfg, classes = load_model(args.model)
+    if args.stage != 'checkpoint':
+        from validation_checks import inference, training
+        if args.stage == 'train':
+            training(model, cfg, classes)
+            source=json.loads((ROOT / f'validation/{args.model}.json').read_text())
+            path=hf_hub_download(source['repo'],source['file'],revision=source['revision'],local_files_only=True)
+            original=json.loads((ROOT/f'validation/results/{args.model}_checkpoint.json').read_text())
+            assert hashlib.sha256(Path(path).read_bytes()).hexdigest()==original['sha256']
+            report=json.loads((ROOT/'validation/results/training.json').read_text())
+            report['checkpoint_sha256_after']=original['sha256']
+            report['checkpoint_unchanged']=True
+            save('training.json',report)
+        else:
+            inference(model, cfg, classes, args.stage)
 
 if __name__ == '__main__':
     main()

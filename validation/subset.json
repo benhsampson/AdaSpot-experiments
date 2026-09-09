@@ -1,0 +1,2167 @@
+{
+  "dataset": "finegym",
+  "source_repo": "HopLeeTop/Sports-QA",
+  "source_revision": "81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c",
+  "seed": 1,
+  "selection": "Integer 25/30 FPS; greedy unseen-class coverage, then shortest clips; 5 test clips per apparatus; seed-1 tie order",
+  "archives": [
+    {
+      "url": "https://huggingface.co/datasets/HopLeeTop/Sports-QA/resolve/81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c/finegym_01.zip",
+      "size": 9617426434,
+      "archive_sha256": "ab2cbd151508ff80a3bc0b1eb07c14c57b98d343a184fd938f636d4e064e140e"
+    },
+    {
+      "url": "https://huggingface.co/datasets/HopLeeTop/Sports-QA/resolve/81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c/finegym_02.zip",
+      "size": 6448636698,
+      "archive_sha256": "96807953ac7590699f520a241bc83fe8aff0d7fd3facae3cb2785958de72f348"
+    },
+    {
+      "url": "https://huggingface.co/datasets/HopLeeTop/Sports-QA/resolve/81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c/finegym_03.zip",
+      "size": 7557185052,
+      "archive_sha256": "cc0f461aec7cb40f2831c868f5b3a9326d1ba83afb05800680bbf48bfd4328af"
+    },
+    {
+      "url": "https://huggingface.co/datasets/HopLeeTop/Sports-QA/resolve/81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c/finegym_04.zip",
+      "size": 7175767103,
+      "archive_sha256": "c7a09c6cadb0c45d6e3986e656e7d901ae1fe9cdb80ba5219059bc7545e9cac9"
+    },
+    {
+      "url": "https://huggingface.co/datasets/HopLeeTop/Sports-QA/resolve/81f0896e09bd6fbee5e1a6ff3773de76e9ac9b3c/finegym_05.zip",
+      "size": 9189951437,
+      "archive_sha256": "5728cca43e92ce81bf676a4c74b63d4f15a6c9ed57ac447b2d563eab93308e2e"
+    }
+  ],
+  "clips": [
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            49,
+            37
+          ],
+          "end_frame": 582554,
+          "pad": [
+            49,
+            37
+          ],
+          "start_frame": 581002
+        },
+        "events": [
+          {
+            "comment": "A_0020_0021;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 675,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0020_0021;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 701,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0021_0023;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 702,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0021_0023;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 740,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0031_0032;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 991,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0031_0032;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1020,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0038_0039;(BB) switch leap (leap forward with leg change)",
+            "frame": 1205,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0038_0039;(BB) switch leap (leap forward with leg change)",
+            "frame": 1234,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0041_0041;(BB) split jump",
+            "frame": 1283,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0041_0041;(BB) split jump",
+            "frame": 1308,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0049_0050;(BB) round-off",
+            "frame": 1525,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0049_0050;(BB) round-off",
+            "frame": 1554,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0050_0051;(BB) salto backward stretched with 1 twist",
+            "frame": 1555,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0050_0051;(BB) salto backward stretched with 1 twist",
+            "frame": 1600,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 30.0,
+        "height": 720,
+        "num_events": 14,
+        "num_frames": 1638,
+        "video": "5Bfx6Wz3KKs_E_019366_019418",
+        "width": 1280
+      },
+      "archive": 3,
+      "member": "finegym_04/5Bfx6Wz3KKs_E_019366_019418.mp4",
+      "bytes": 4856538,
+      "zip_crc32": 2511935980,
+      "sha256": "68e417ba9cfb82bcad3d5b69d51078168dc9173ad4e0c271ea17d899c23704d9"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            28,
+            25
+          ],
+          "end_frame": 211125,
+          "pad": [
+            28,
+            25
+          ],
+          "start_frame": 210424
+        },
+        "events": [
+          {
+            "comment": "A_0003_0004;(UB) stalder backward to handstand",
+            "frame": 109,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0003_0004;(UB) stalder backward to handstand",
+            "frame": 150,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0004_0005;(UB) transition flight from low bar to high bar",
+            "frame": 151,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0004_0005;(UB) transition flight from low bar to high bar",
+            "frame": 168,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0006_0008;(UB) transition flight from high bar to low bar",
+            "frame": 202,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0006_0008;(UB) transition flight from high bar to low bar",
+            "frame": 244,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0011_0012;(UB) pike sole circle backward to handstand",
+            "frame": 307,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0011_0012;(UB) pike sole circle backward to handstand",
+            "frame": 344,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0012_0013;(UB) transition flight from low bar to high bar",
+            "frame": 345,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0012_0013;(UB) transition flight from low bar to high bar",
+            "frame": 363,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0016_0018;(UB) counter straddle over high bar with 0.5 turn to hang",
+            "frame": 442,
+            "label": "UB_fligh_same_bar_start"
+          },
+          {
+            "comment": "A_0016_0018;(UB) counter straddle over high bar with 0.5 turn to hang",
+            "frame": 483,
+            "label": "UB_fligh_same_bar_end"
+          },
+          {
+            "comment": "A_0018_0019;(UB) (swing backward or front support) salto forward straddled to hang on high bar",
+            "frame": 484,
+            "label": "UB_fligh_same_bar_start"
+          },
+          {
+            "comment": "A_0018_0019;(UB) (swing backward or front support) salto forward straddled to hang on high bar",
+            "frame": 518,
+            "label": "UB_fligh_same_bar_end"
+          },
+          {
+            "comment": "A_0022_0024;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 580,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0022_0024;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 636,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0025_0028;(UB) (swing forward) double salto backward tucked with 1 turn",
+            "frame": 657,
+            "label": "UB_dismounts_start"
+          },
+          {
+            "comment": "A_0025_0028;(UB) (swing forward) double salto backward tucked with 1 turn",
+            "frame": 728,
+            "label": "UB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 18,
+        "num_frames": 754,
+        "video": "nEoD3t5O3Hg_E_008416_008445",
+        "width": 1920
+      },
+      "archive": 4,
+      "member": "finegym_05/nEoD3t5O3Hg_E_008416_008445.mp4",
+      "bytes": 8726986,
+      "zip_crc32": 536828810,
+      "sha256": "dd47975b0053a2a67fef57eb9fa8c663fa080ffe8e0651d5fbd710d39013dfce"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            32,
+            58
+          ],
+          "end_frame": 43871,
+          "pad": [
+            32,
+            58
+          ],
+          "start_frame": 41676
+        },
+        "events": [
+          {
+            "comment": "A_0019_0022;(FX) double salto backward piked",
+            "frame": 631,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0019_0022;(FX) double salto backward piked",
+            "frame": 701,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0030_0031;(FX) switch leap with 0.5 turn",
+            "frame": 961,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0030_0031;(FX) switch leap with 0.5 turn",
+            "frame": 986,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0037_0038;(FX) salto backward stretched with 1.5 twist",
+            "frame": 1162,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0037_0038;(FX) salto backward stretched with 1.5 twist",
+            "frame": 1184,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0038_0039;(FX) salto forward piked",
+            "frame": 1185,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0038_0039;(FX) salto forward piked",
+            "frame": 1230,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0044_0044;(FX) 1 turn with heel of free leg forward at horizontal throughout turn",
+            "frame": 1353,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0044_0044;(FX) 1 turn with heel of free leg forward at horizontal throughout turn",
+            "frame": 1379,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0047_0048;(FX) switch leap to ring position",
+            "frame": 1467,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0047_0048;(FX) switch leap to ring position",
+            "frame": 1488,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0049_0050;(FX) split leap with 1 turn",
+            "frame": 1518,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0049_0050;(FX) split leap with 1 turn",
+            "frame": 1546,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0065_0067;(FX) double salto backward tucked",
+            "frame": 1992,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0065_0067;(FX) double salto backward tucked",
+            "frame": 2053,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 30.0,
+        "height": 720,
+        "num_events": 16,
+        "num_frames": 2285,
+        "video": "5X85zLeLmks_E_001389_001462",
+        "width": 1280
+      },
+      "archive": 3,
+      "member": "finegym_04/5X85zLeLmks_E_001389_001462.mp4",
+      "bytes": 13846468,
+      "zip_crc32": 2513563771,
+      "sha256": "d2d1ddd95d31bfb44425a87e112bff38efee65c9b110166d0a3cc5192beddfed"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            28,
+            33
+          ],
+          "end_frame": 9325,
+          "pad": [
+            28,
+            33
+          ],
+          "start_frame": 9142
+        },
+        "events": [
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, piked salto forward with 0.5 turn off",
+            "frame": 29,
+            "label": "VT_0"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, piked salto forward with 0.5 turn off",
+            "frame": 133,
+            "label": "VT_1"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, piked salto forward with 0.5 turn off",
+            "frame": 152,
+            "label": "VT_2"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, piked salto forward with 0.5 turn off",
+            "frame": 208,
+            "label": "VT_3"
+          }
+        ],
+        "fps": 25.0,
+        "height": 480,
+        "num_events": 4,
+        "num_frames": 244,
+        "video": "QUJRNcPXxY8_E_000365_000373",
+        "width": 854
+      },
+      "archive": 0,
+      "member": "finegym_01/QUJRNcPXxY8_E_000365_000373.mp4",
+      "bytes": 958125,
+      "zip_crc32": 985847131,
+      "sha256": "1feff4f4e1ebd4f336e3b3a372f351433613dfca6ea5184650ab2bfc73d6d060"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            49,
+            32
+          ],
+          "end_frame": 105947,
+          "pad": [
+            49,
+            32
+          ],
+          "start_frame": 103497
+        },
+        "events": [
+          {
+            "comment": "A_0010_0012;(FX) 2 turn with free leg held upward in 180 split position throughout turn",
+            "frame": 322,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0010_0012;(FX) 2 turn with free leg held upward in 180 split position throughout turn",
+            "frame": 363,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0017_0019;(FX) double salto backward stretched",
+            "frame": 487,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0017_0019;(FX) double salto backward stretched",
+            "frame": 541,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0030_0030;(FX) whip salto backward",
+            "frame": 808,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0030_0030;(FX) whip salto backward",
+            "frame": 823,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0031_0031;(FX) whip salto backward",
+            "frame": 824,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0031_0031;(FX) whip salto backward",
+            "frame": 839,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0032_0033;(FX) salto backward stretched with 3 twist",
+            "frame": 854,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0032_0033;(FX) salto backward stretched with 3 twist",
+            "frame": 893,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0038_0038;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1000,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0038_0038;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1022,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0040_0041;(FX) split leap with 1 turn",
+            "frame": 1056,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0040_0041;(FX) split leap with 1 turn",
+            "frame": 1077,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0049_0051;(FX) 2 turn or more with heel of free leg forward at horizontal throughout turn",
+            "frame": 1299,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0049_0051;(FX) 2 turn or more with heel of free leg forward at horizontal throughout turn",
+            "frame": 1334,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0060_0063;(FX) double salto backward piked",
+            "frame": 1551,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0060_0063;(FX) double salto backward piked",
+            "frame": 1641,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0066_0067;(FX) aerial cartwheel",
+            "frame": 1702,
+            "label": "FX_side_salto_start"
+          },
+          {
+            "comment": "A_0066_0067;(FX) aerial cartwheel",
+            "frame": 1739,
+            "label": "FX_side_salto_end"
+          },
+          {
+            "comment": "A_0089_0091;(FX) double salto backward tucked",
+            "frame": 2286,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0089_0091;(FX) double salto backward tucked",
+            "frame": 2337,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 22,
+        "num_frames": 2531,
+        "video": "qGvIwgHzCH8_E_004139_004237",
+        "width": 1280
+      },
+      "archive": 4,
+      "member": "finegym_05/qGvIwgHzCH8_E_004139_004237.mp4",
+      "bytes": 15073097,
+      "zip_crc32": 670045793,
+      "sha256": "62414641cdf18d8ffd3b197a250b55806f9088fd82b01ddeeb3972a2b4c4b7bb"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            43,
+            27
+          ],
+          "end_frame": 9378,
+          "pad": [
+            43,
+            27
+          ],
+          "start_frame": 9195
+        },
+        "events": [
+          {
+            "comment": "A_0000_0006;(VT) round-off, flic-flac on, stretched salto backward with 2 turn off",
+            "frame": 58,
+            "label": "VT_0"
+          },
+          {
+            "comment": "A_0000_0006;(VT) round-off, flic-flac on, stretched salto backward with 2 turn off",
+            "frame": 143,
+            "label": "VT_1"
+          },
+          {
+            "comment": "A_0000_0006;(VT) round-off, flic-flac on, stretched salto backward with 2 turn off",
+            "frame": 177,
+            "label": "VT_2"
+          },
+          {
+            "comment": "A_0000_0006;(VT) round-off, flic-flac on, stretched salto backward with 2 turn off",
+            "frame": 210,
+            "label": "VT_3"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 4,
+        "num_frames": 253,
+        "video": "EFvDqOF1sCk_E_000367_000375",
+        "width": 1920
+      },
+      "archive": 2,
+      "member": "finegym_03/EFvDqOF1sCk_E_000367_000375.mp4",
+      "bytes": 3549890,
+      "zip_crc32": 2054770349,
+      "sha256": "bb41cadcc9f0b4e23f1584165f20474c59667f74f57aa774bf41d43ca4261488"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            29,
+            28
+          ],
+          "end_frame": 23685,
+          "pad": [
+            29,
+            28
+          ],
+          "start_frame": 23489
+        },
+        "events": [
+          {
+            "comment": "A_0000_0007;(VT) tsukahara stretched with 1 turn",
+            "frame": 42,
+            "label": "VT_0"
+          },
+          {
+            "comment": "A_0000_0007;(VT) tsukahara stretched with 1 turn",
+            "frame": 140,
+            "label": "VT_1"
+          },
+          {
+            "comment": "A_0000_0007;(VT) tsukahara stretched with 1 turn",
+            "frame": 156,
+            "label": "VT_2"
+          },
+          {
+            "comment": "A_0000_0007;(VT) tsukahara stretched with 1 turn",
+            "frame": 217,
+            "label": "VT_3"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 4,
+        "num_frames": 253,
+        "video": "eH-ZgOT8ASM_E_000939_000947",
+        "width": 1920
+      },
+      "archive": 2,
+      "member": "finegym_03/eH-ZgOT8ASM_E_000939_000947.mp4",
+      "bytes": 4033112,
+      "zip_crc32": 1162457285,
+      "sha256": "0bc0a283f9ca5d06c2f8d5e9f893828b38f2c74fbc7f2f2c15deed9d34003206"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            33,
+            31
+          ],
+          "end_frame": 82285,
+          "pad": [
+            33,
+            31
+          ],
+          "start_frame": 82095
+        },
+        "events": [
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, 1.5 turn off",
+            "frame": 44,
+            "label": "VT_0"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, 1.5 turn off",
+            "frame": 147,
+            "label": "VT_1"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, 1.5 turn off",
+            "frame": 164,
+            "label": "VT_2"
+          },
+          {
+            "comment": "A_0000_0007;(VT) handspring forward on, 1.5 turn off",
+            "frame": 221,
+            "label": "VT_3"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 4,
+        "num_frames": 254,
+        "video": "nEoD3t5O3Hg_E_003283_003291",
+        "width": 1920
+      },
+      "archive": 3,
+      "member": "finegym_04/nEoD3t5O3Hg_E_003283_003291.mp4",
+      "bytes": 3459476,
+      "zip_crc32": 1616943941,
+      "sha256": "f978f71e4c53cb5780525fe74ec85865801ab9013c17e5c31ae218a9bdd93e5f"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            26,
+            27
+          ],
+          "end_frame": 117336,
+          "pad": [
+            26,
+            27
+          ],
+          "start_frame": 117132
+        },
+        "events": [
+          {
+            "comment": "A_0000_0008;(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off",
+            "frame": 27,
+            "label": "VT_0"
+          },
+          {
+            "comment": "A_0000_0008;(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off",
+            "frame": 126,
+            "label": "VT_1"
+          },
+          {
+            "comment": "A_0000_0008;(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off",
+            "frame": 167,
+            "label": "VT_2"
+          },
+          {
+            "comment": "A_0000_0008;(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off",
+            "frame": 229,
+            "label": "VT_3"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 4,
+        "num_frames": 257,
+        "video": "l-ctNiOuCBc_E_004685_004693",
+        "width": 1920
+      },
+      "archive": 2,
+      "member": "finegym_03/l-ctNiOuCBc_E_004685_004693.mp4",
+      "bytes": 4223743,
+      "zip_crc32": 863713328,
+      "sha256": "20e5a9623ed11f8db858b9046e42a959073461836e651f9dfd5003587994fbae"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            25,
+            33
+          ],
+          "end_frame": 15303,
+          "pad": [
+            25,
+            33
+          ],
+          "start_frame": 14864
+        },
+        "events": [
+          {
+            "comment": "A_0002_0006;(UB) transition flight from low bar to high bar",
+            "frame": 77,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0002_0006;(UB) transition flight from low bar to high bar",
+            "frame": 181,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0010_0012;(UB) giant circle backward",
+            "frame": 286,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0010_0012;(UB) giant circle backward",
+            "frame": 341,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0012_0014;(UB) giant circle backward",
+            "frame": 342,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0012_0014;(UB) giant circle backward",
+            "frame": 397,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0015_0017;(UB) (swing forward) salto backward stretched",
+            "frame": 420,
+            "label": "UB_dismounts_start"
+          },
+          {
+            "comment": "A_0015_0017;(UB) (swing forward) salto backward stretched",
+            "frame": 462,
+            "label": "UB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 8,
+        "num_frames": 497,
+        "video": "Lt0HnPxdzHw_E_000594_000612",
+        "width": 1280
+      },
+      "archive": 0,
+      "member": "finegym_01/Lt0HnPxdzHw_E_000594_000612.mp4",
+      "bytes": 2144668,
+      "zip_crc32": 354593532,
+      "sha256": "26e686491cfd8e16c8eb664c4dc2cdc058cda8738cd1cbaad43860ca66c4b9ab"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            35,
+            41
+          ],
+          "end_frame": 156045,
+          "pad": [
+            35,
+            41
+          ],
+          "start_frame": 155524
+        },
+        "events": [
+          {
+            "comment": "A_0002_0004;(UB) stalder backward to handstand",
+            "frame": 122,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0002_0004;(UB) stalder backward to handstand",
+            "frame": 183,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0004_0006;(UB) pike sole circle backward to handstand",
+            "frame": 184,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0004_0006;(UB) pike sole circle backward to handstand",
+            "frame": 229,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0007_0008;(UB) transition flight from low bar to high bar",
+            "frame": 257,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0007_0008;(UB) transition flight from low bar to high bar",
+            "frame": 290,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0010_0012;(UB) giant circle backward",
+            "frame": 358,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0010_0012;(UB) giant circle backward",
+            "frame": 420,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0012_0014;(UB) giant circle backward",
+            "frame": 421,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0012_0014;(UB) giant circle backward",
+            "frame": 465,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0015_0017;(UB) (swing forward) double salto backward stretched",
+            "frame": 487,
+            "label": "UB_dismounts_start"
+          },
+          {
+            "comment": "A_0015_0017;(UB) (swing forward) double salto backward stretched",
+            "frame": 555,
+            "label": "UB_dismounts_end"
+          }
+        ],
+        "fps": 30.0,
+        "height": 720,
+        "num_events": 12,
+        "num_frames": 597,
+        "video": "5X85zLeLmks_E_005184_005201",
+        "width": 1280
+      },
+      "archive": 0,
+      "member": "finegym_01/5X85zLeLmks_E_005184_005201.mp4",
+      "bytes": 3730426,
+      "zip_crc32": 1290651166,
+      "sha256": "fea7bdecd0f7b827e4dacd2ab224b7b1dfc7e8da03890cafb99b9be42218c1d9"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            46,
+            45
+          ],
+          "end_frame": 199772,
+          "pad": [
+            46,
+            45
+          ],
+          "start_frame": 199254
+        },
+        "events": [
+          {
+            "comment": "A_0003_0004;(UB) clear pike circle backward to handstand",
+            "frame": 129,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0003_0004;(UB) clear pike circle backward to handstand",
+            "frame": 169,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0004_0005;(UB) transition flight from low bar to high bar",
+            "frame": 170,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0004_0005;(UB) transition flight from low bar to high bar",
+            "frame": 188,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0006_0008;(UB) transition flight from high bar to low bar",
+            "frame": 219,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0006_0008;(UB) transition flight from high bar to low bar",
+            "frame": 260,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0008_0009;(UB) transition flight from low bar to high bar",
+            "frame": 261,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0008_0009;(UB) transition flight from low bar to high bar",
+            "frame": 291,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0009_0011;(UB) transition flight from high bar to low bar",
+            "frame": 292,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0009_0011;(UB) transition flight from high bar to low bar",
+            "frame": 333,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0011_0012;(UB) transition flight from low bar to high bar",
+            "frame": 334,
+            "label": "UB_transition_flight_start"
+          },
+          {
+            "comment": "A_0011_0012;(UB) transition flight from low bar to high bar",
+            "frame": 362,
+            "label": "UB_transition_flight_end"
+          },
+          {
+            "comment": "A_0015_0017;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 421,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0015_0017;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 482,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0018_0020;(UB) (swing forward) double salto backward tucked with 1 turn",
+            "frame": 502,
+            "label": "UB_dismounts_start"
+          },
+          {
+            "comment": "A_0018_0020;(UB) (swing forward) double salto backward tucked with 1 turn",
+            "frame": 563,
+            "label": "UB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 16,
+        "num_frames": 609,
+        "video": "l-ctNiOuCBc_E_007970_007990",
+        "width": 1920
+      },
+      "archive": 0,
+      "member": "finegym_01/l-ctNiOuCBc_E_007970_007990.mp4",
+      "bytes": 10884343,
+      "zip_crc32": 192726505,
+      "sha256": "87e3fa6dd020f11e99061c5bb66fbf956e7e2d51c97a5134944c22f6d220ee00"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            32,
+            40
+          ],
+          "end_frame": 200343,
+          "pad": [
+            32,
+            40
+          ],
+          "start_frame": 199806
+        },
+        "events": [
+          {
+            "comment": "A_0003_0005;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 114,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0003_0005;(UB) pike sole circle backward with 1 turn to handstand",
+            "frame": 175,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0005_0007;(UB) giant circle backward with 0.5 turn to handstand",
+            "frame": 176,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0005_0007;(UB) giant circle backward with 0.5 turn to handstand",
+            "frame": 224,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0007_0010;(UB) giant circle forward with 1 turn on one arm before handstand phase",
+            "frame": 225,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0007_0010;(UB) giant circle forward with 1 turn on one arm before handstand phase",
+            "frame": 285,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0015_0017;(UB) giant circle backward with 0.5 turn to handstand",
+            "frame": 416,
+            "label": "UB_circles_start"
+          },
+          {
+            "comment": "A_0015_0017;(UB) giant circle backward with 0.5 turn to handstand",
+            "frame": 475,
+            "label": "UB_circles_end"
+          },
+          {
+            "comment": "A_0018_0021;(UB) (swing backward) double salto forward tucked",
+            "frame": 501,
+            "label": "UB_dismounts_start"
+          },
+          {
+            "comment": "A_0018_0021;(UB) (swing backward) double salto forward tucked",
+            "frame": 568,
+            "label": "UB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 10,
+        "num_frames": 609,
+        "video": "l-ctNiOuCBc_E_007992_008013",
+        "width": 1920
+      },
+      "archive": 4,
+      "member": "finegym_05/l-ctNiOuCBc_E_007992_008013.mp4",
+      "bytes": 10336963,
+      "zip_crc32": 3700066334,
+      "sha256": "5a2ebb2c75f91de3d20a1c46b4aa3e4ad7f003872503028ad63328be8ac809e4"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            40,
+            39
+          ],
+          "end_frame": 100639,
+          "pad": [
+            40,
+            39
+          ],
+          "start_frame": 98832
+        },
+        "events": [
+          {
+            "comment": "A_0008_0010;(BB) free aerial cartwheel landing in cross position",
+            "frame": 265,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0008_0010;(BB) free aerial cartwheel landing in cross position",
+            "frame": 301,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0012_0013;(BB) split jump with 1 turn",
+            "frame": 353,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0012_0013;(BB) split jump with 1 turn",
+            "frame": 375,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0029_0030;(BB) salto sideward tucked, take off from one leg to side stand",
+            "frame": 774,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0029_0030;(BB) salto sideward tucked, take off from one leg to side stand",
+            "frame": 803,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0056_0057;(BB) switch leap (leap forward with leg change)",
+            "frame": 1444,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0056_0057;(BB) switch leap (leap forward with leg change)",
+            "frame": 1480,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0057_0058;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1486,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0057_0058;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1508,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0068_0069;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1746,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0068_0069;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1772,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0069_0072;(BB) salto backward stretched with 1.5 twist",
+            "frame": 1773,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0069_0072;(BB) salto backward stretched with 1.5 twist",
+            "frame": 1846,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 14,
+        "num_frames": 1886,
+        "video": "s7pyZPf6fKU_E_003953_004025",
+        "width": 1280
+      },
+      "archive": 3,
+      "member": "finegym_04/s7pyZPf6fKU_E_003953_004025.mp4",
+      "bytes": 7724162,
+      "zip_crc32": 1843572834,
+      "sha256": "03b5a66bcf6d9343374df642af3abbdf6f51fdb8ff34d39276c8715df6581b68"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            44,
+            53
+          ],
+          "end_frame": 270326,
+          "pad": [
+            44,
+            53
+          ],
+          "start_frame": 268405
+        },
+        "events": [
+          {
+            "comment": "A_0017_0018;(BB) switch leap (leap forward with leg change)",
+            "frame": 580,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0017_0018;(BB) switch leap (leap forward with leg change)",
+            "frame": 611,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0019_0020;(BB) johnson (leap forward with leg change and 0.25 turn to side split or straddle pike position)",
+            "frame": 631,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0019_0020;(BB) johnson (leap forward with leg change and 0.25 turn to side split or straddle pike position)",
+            "frame": 661,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0038_0039;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1187,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0038_0039;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1218,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0039_0040;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 1220,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0039_0040;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 1254,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0053_0054;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1649,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0053_0054;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1686,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0060_0061;(BB) free aerial cartwheel landing in cross position",
+            "frame": 1864,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0060_0061;(BB) free aerial cartwheel landing in cross position",
+            "frame": 1889,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0061_0063;(BB) salto backward stretched with 1 twist",
+            "frame": 1892,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0061_0063;(BB) salto backward stretched with 1 twist",
+            "frame": 1963,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 30.0,
+        "height": 720,
+        "num_events": 14,
+        "num_frames": 2018,
+        "video": "5Bfx6Wz3KKs_E_008946_009010",
+        "width": 1280
+      },
+      "archive": 0,
+      "member": "finegym_01/5Bfx6Wz3KKs_E_008946_009010.mp4",
+      "bytes": 5839351,
+      "zip_crc32": 3512679593,
+      "sha256": "b9a5b7863023449b09bf826a7007c57c1fc0175f26857fc2396ca103fc32dc9d"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            28,
+            48
+          ],
+          "end_frame": 100864,
+          "pad": [
+            28,
+            48
+          ],
+          "start_frame": 98887
+        },
+        "events": [
+          {
+            "comment": "A_0016_0017;(BB) switch leap (leap forward with leg change)",
+            "frame": 437,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0016_0017;(BB) switch leap (leap forward with leg change)",
+            "frame": 462,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0018_0019;(BB) switch leap with 0.5 turn",
+            "frame": 489,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0018_0019;(BB) switch leap with 0.5 turn",
+            "frame": 510,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0027_0027;(BB) salto forward tucked to cross stand",
+            "frame": 706,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0027_0027;(BB) salto forward tucked to cross stand",
+            "frame": 722,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0036_0037;(BB) 1 illusion turn through standing split, 180 legs separation",
+            "frame": 930,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0036_0037;(BB) 1 illusion turn through standing split, 180 legs separation",
+            "frame": 958,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0045_0046;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1176,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0045_0046;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1200,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0046_0047;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 1201,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0046_0047;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 1224,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0053_0054;(BB) free aerial cartwheel landing in cross position",
+            "frame": 1370,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0053_0054;(BB) free aerial cartwheel landing in cross position",
+            "frame": 1394,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0061_0062;(BB) switch leap to ring position",
+            "frame": 1559,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0061_0062;(BB) switch leap to ring position",
+            "frame": 1580,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0063_0064;(BB) split jump",
+            "frame": 1622,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0063_0064;(BB) split jump",
+            "frame": 1640,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0064_0065;(BB) wolf hop or jump (hip angle at 45, knees together)",
+            "frame": 1651,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0064_0065;(BB) wolf hop or jump (hip angle at 45, knees together)",
+            "frame": 1670,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0076_0079;(BB) gainer salto stretched with 1 twist at end of beam",
+            "frame": 1946,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0076_0079;(BB) gainer salto stretched with 1 twist at end of beam",
+            "frame": 2004,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 22,
+        "num_frames": 2053,
+        "video": "nSDRagdrJ-A_E_003955_004034",
+        "width": 1920
+      },
+      "archive": 3,
+      "member": "finegym_04/nSDRagdrJ-A_E_003955_004034.mp4",
+      "bytes": 17921846,
+      "zip_crc32": 2020709826,
+      "sha256": "273f6c6e530b694131ef1db4a30d7fac3472329ddcbe329bd052d111ac1adaf4"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            32,
+            41
+          ],
+          "end_frame": 33460,
+          "pad": [
+            32,
+            41
+          ],
+          "start_frame": 31462
+        },
+        "events": [
+          {
+            "comment": "A_0025_0026;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 789,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0025_0026;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 826,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0035_0036;(BB) split leap forward",
+            "frame": 1090,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0035_0036;(BB) split leap forward",
+            "frame": 1124,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0036_0037;(BB) split jump",
+            "frame": 1126,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0036_0037;(BB) split jump",
+            "frame": 1147,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0043_0045;(BB) handspring forward with flight to land on one or both legs, also with support on one arm",
+            "frame": 1345,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0043_0045;(BB) handspring forward with flight to land on one or both legs, also with support on one arm",
+            "frame": 1402,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0053_0054;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1635,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0053_0054;(BB) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1671,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0063_0064;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1936,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0063_0064;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 1966,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0064_0066;(BB) salto backward tucked",
+            "frame": 1968,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0064_0066;(BB) salto backward tucked",
+            "frame": 2020,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 30.0,
+        "height": 720,
+        "num_events": 14,
+        "num_frames": 2071,
+        "video": "5Bfx6Wz3KKs_E_001048_001115",
+        "width": 1280
+      },
+      "archive": 1,
+      "member": "finegym_02/5Bfx6Wz3KKs_E_001048_001115.mp4",
+      "bytes": 5964103,
+      "zip_crc32": 759777582,
+      "sha256": "c567eb568d694c4fa78fb921b67b68bd4a3f9be078584305ba99deb93e0f5f00"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            26,
+            43
+          ],
+          "end_frame": 139840,
+          "pad": [
+            26,
+            43
+          ],
+          "start_frame": 137460
+        },
+        "events": [
+          {
+            "comment": "A_0019_0020;(FX) double salto backward stretched with 1 twist",
+            "frame": 512,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0019_0020;(FX) double salto backward stretched with 1 twist",
+            "frame": 547,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0021_0022;(FX) 2 turn on one leg, free leg optional below horizontal",
+            "frame": 573,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0021_0022;(FX) 2 turn on one leg, free leg optional below horizontal",
+            "frame": 597,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0036_0038;(FX) double salto backward stretched",
+            "frame": 944,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0036_0038;(FX) double salto backward stretched",
+            "frame": 985,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0045_0046;(FX) switch leap to ring position",
+            "frame": 1172,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0045_0046;(FX) switch leap to ring position",
+            "frame": 1197,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0048_0049;(FX) split leap with 1.5 turn or more",
+            "frame": 1245,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0048_0049;(FX) split leap with 1.5 turn or more",
+            "frame": 1268,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0050_0051;(FX) jump with legs separated, landing in front lying support",
+            "frame": 1286,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0050_0051;(FX) jump with legs separated, landing in front lying support",
+            "frame": 1307,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0062_0063;(FX) 1 spin or less on back in kip position, hip and leg are closed",
+            "frame": 1591,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0062_0063;(FX) 1 spin or less on back in kip position, hip and leg are closed",
+            "frame": 1613,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0072_0074;(FX) arabian double salto tucked",
+            "frame": 1827,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0072_0074;(FX) arabian double salto tucked",
+            "frame": 1885,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0079_0080;(FX) tuck hop or jump with 2 turn",
+            "frame": 2003,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0079_0080;(FX) tuck hop or jump with 2 turn",
+            "frame": 2026,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0091_0092;(FX) double salto backward piked",
+            "frame": 2302,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0091_0092;(FX) double salto backward piked",
+            "frame": 2340,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 20,
+        "num_frames": 2449,
+        "video": "qGvIwgHzCH8_E_005498_005593",
+        "width": 1280
+      },
+      "archive": 4,
+      "member": "finegym_05/qGvIwgHzCH8_E_005498_005593.mp4",
+      "bytes": 12270448,
+      "zip_crc32": 3400213784,
+      "sha256": "8b642ba388ef685a8d11328f2c32395ca730b9fedffd60b7be8c46e2d379cb13"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            31,
+            49
+          ],
+          "end_frame": 168904,
+          "pad": [
+            31,
+            49
+          ],
+          "start_frame": 166529
+        },
+        "events": [
+          {
+            "comment": "A_0017_0018;(FX) arabian double salto tucked",
+            "frame": 456,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0017_0018;(FX) arabian double salto tucked",
+            "frame": 488,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0018_0019;(FX) stag jump",
+            "frame": 490,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0018_0019;(FX) stag jump",
+            "frame": 507,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0028_0029;(FX) double salto backward piked",
+            "frame": 732,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0028_0029;(FX) double salto backward piked",
+            "frame": 772,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0040_0041;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1037,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0040_0041;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1059,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0042_0043;(FX) switch leap with 0.5 turn",
+            "frame": 1097,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0042_0043;(FX) switch leap with 0.5 turn",
+            "frame": 1117,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0056_0057;(FX) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1451,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0056_0057;(FX) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1477,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0067_0068;(FX) salto backward stretched with 1.5 twist",
+            "frame": 1723,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0067_0068;(FX) salto backward stretched with 1.5 twist",
+            "frame": 1744,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0068_0069;(FX) salto forward stretched with 1 twist",
+            "frame": 1745,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0068_0069;(FX) salto forward stretched with 1 twist",
+            "frame": 1768,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0072_0073;(FX) split leap with 1 turn",
+            "frame": 1848,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0072_0073;(FX) split leap with 1 turn",
+            "frame": 1869,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0090_0092;(FX) double salto backward tucked",
+            "frame": 2291,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0090_0092;(FX) double salto backward tucked",
+            "frame": 2346,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 20,
+        "num_frames": 2455,
+        "video": "qGvIwgHzCH8_E_006661_006756",
+        "width": 1280
+      },
+      "archive": 0,
+      "member": "finegym_01/qGvIwgHzCH8_E_006661_006756.mp4",
+      "bytes": 14673414,
+      "zip_crc32": 700918625,
+      "sha256": "a88efaf56b3c1b13bf2a6fdb8759b36bd32ca2ad3801c4001920207a79cd0f24"
+    },
+    {
+      "split": "test",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            32,
+            43
+          ],
+          "end_frame": 297134,
+          "pad": [
+            32,
+            43
+          ],
+          "start_frame": 294747
+        },
+        "events": [
+          {
+            "comment": "A_0014_0015;(FX) straddle pike or side split jump with 1 turn",
+            "frame": 394,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0014_0015;(FX) straddle pike or side split jump with 1 turn",
+            "frame": 417,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0026_0027;(FX) double salto backward stretched",
+            "frame": 692,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0026_0027;(FX) double salto backward stretched",
+            "frame": 730,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0038_0039;(FX) salto forward stretched with 1 twist",
+            "frame": 1006,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0038_0039;(FX) salto forward stretched with 1 twist",
+            "frame": 1023,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0039_0040;(FX) salto forward tucked",
+            "frame": 1025,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0039_0040;(FX) salto forward tucked",
+            "frame": 1056,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0052_0053;(FX) split leap with 1 turn",
+            "frame": 1335,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0052_0053;(FX) split leap with 1 turn",
+            "frame": 1360,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0055_0055;(FX) switch leap with 0.5 turn",
+            "frame": 1408,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0055_0055;(FX) switch leap with 0.5 turn",
+            "frame": 1427,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0058_0059;(FX) stag ring jump",
+            "frame": 1493,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0058_0059;(FX) stag ring jump",
+            "frame": 1511,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0067_0069;(FX) 2 turn on one leg, free leg optional below horizontal",
+            "frame": 1724,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0067_0069;(FX) 2 turn on one leg, free leg optional below horizontal",
+            "frame": 1758,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0083_0085;(FX) double salto backward piked",
+            "frame": 2115,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0083_0085;(FX) double salto backward piked",
+            "frame": 2168,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 1080,
+        "num_events": 18,
+        "num_frames": 2462,
+        "video": "YesOPAkCA40_E_011789_011885",
+        "width": 1920
+      },
+      "archive": 0,
+      "member": "finegym_01/YesOPAkCA40_E_011789_011885.mp4",
+      "bytes": 26393443,
+      "zip_crc32": 3521802191,
+      "sha256": "0f0ec26a6a6bd51ea68eb5470f280bc447c613acc0f31da6e31c2a1932b328eb"
+    },
+    {
+      "split": "train",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            38,
+            31
+          ],
+          "end_frame": 108337,
+          "pad": [
+            38,
+            31
+          ],
+          "start_frame": 107062
+        },
+        "events": [
+          {
+            "comment": "A_0010_0011;(BB) 1 turn in tuck stand on one leg, free leg optional",
+            "frame": 295,
+            "label": "BB_turns_start"
+          },
+          {
+            "comment": "A_0010_0011;(BB) 1 turn in tuck stand on one leg, free leg optional",
+            "frame": 331,
+            "label": "BB_turns_end"
+          },
+          {
+            "comment": "A_0022_0023;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 602,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0022_0023;(BB) flic-flac with step-out, also with support on one arm",
+            "frame": 622,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0023_0024;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 623,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0023_0024;(BB) salto backward stretched-step out (feet land successively)",
+            "frame": 643,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0031_0033;(BB) free aerial walkover forward, landing on one or both feet",
+            "frame": 833,
+            "label": "BB_flight_salto_start"
+          },
+          {
+            "comment": "A_0031_0033;(BB) free aerial walkover forward, landing on one or both feet",
+            "frame": 878,
+            "label": "BB_flight_salto_end"
+          },
+          {
+            "comment": "A_0035_0035;(BB) sheep jump (jump with upper back arch and head release with feet to head height/closed Ring)",
+            "frame": 921,
+            "label": "BB_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0035_0035;(BB) sheep jump (jump with upper back arch and head release with feet to head height/closed Ring)",
+            "frame": 937,
+            "label": "BB_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0047_0048;(BB) round-off",
+            "frame": 1237,
+            "label": "BB_flight_handspring_start"
+          },
+          {
+            "comment": "A_0047_0048;(BB) round-off",
+            "frame": 1253,
+            "label": "BB_flight_handspring_end"
+          },
+          {
+            "comment": "A_0048_0050;(BB) salto backward stretched with 2 twist",
+            "frame": 1254,
+            "label": "BB_dismounts_start"
+          },
+          {
+            "comment": "A_0048_0050;(BB) salto backward stretched with 2 twist",
+            "frame": 1298,
+            "label": "BB_dismounts_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 14,
+        "num_frames": 1344,
+        "video": "cSh74jSRht8_E_004282_004333",
+        "width": 1280
+      },
+      "archive": 1,
+      "member": "finegym_02/cSh74jSRht8_E_004282_004333.mp4",
+      "bytes": 5793421,
+      "zip_crc32": 3001808917,
+      "sha256": "f39c852a00d7e109da2403fb0e94a06ee612de8d65053a1367e4436bcc1a51a2"
+    },
+    {
+      "split": "train",
+      "original": {
+        "_source_info": {
+          "effective_pad": [
+            28,
+            49
+          ],
+          "end_frame": 55299,
+          "pad": [
+            28,
+            49
+          ],
+          "start_frame": 52596
+        },
+        "events": [
+          {
+            "comment": "A_0019_0020;(FX) split leap with 1.5 turn or more",
+            "frame": 518,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0019_0020;(FX) split leap with 1.5 turn or more",
+            "frame": 540,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0026_0028;(FX) double salto backward tucked with 1 twist",
+            "frame": 700,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0026_0028;(FX) double salto backward tucked with 1 twist",
+            "frame": 738,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0040_0041;(FX) salto backward stretched with 2.5 twist",
+            "frame": 1033,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0040_0041;(FX) salto backward stretched with 2.5 twist",
+            "frame": 1055,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0041_0042;(FX) salto forward tucked",
+            "frame": 1058,
+            "label": "FX_front_salto_start"
+          },
+          {
+            "comment": "A_0041_0042;(FX) salto forward tucked",
+            "frame": 1088,
+            "label": "FX_front_salto_end"
+          },
+          {
+            "comment": "A_0047_0048;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1209,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0047_0048;(FX) switch leap (leap forward with leg change to cross split)",
+            "frame": 1231,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0049_0050;(FX) johnson with additional 0.5 turn",
+            "frame": 1265,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0049_0050;(FX) johnson with additional 0.5 turn",
+            "frame": 1287,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0065_0066;(FX) salto backward stretched with 3 twist",
+            "frame": 1658,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0065_0066;(FX) salto backward stretched with 3 twist",
+            "frame": 1696,
+            "label": "FX_back_salto_end"
+          },
+          {
+            "comment": "A_0068_0069;(FX) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1751,
+            "label": "FX_turns_start"
+          },
+          {
+            "comment": "A_0068_0069;(FX) 1 turn on one leg, free leg optional below horizontal",
+            "frame": 1770,
+            "label": "FX_turns_end"
+          },
+          {
+            "comment": "A_0072_0073;(FX) aerial cartwheel",
+            "frame": 1834,
+            "label": "FX_side_salto_start"
+          },
+          {
+            "comment": "A_0072_0073;(FX) aerial cartwheel",
+            "frame": 1856,
+            "label": "FX_side_salto_end"
+          },
+          {
+            "comment": "A_0084_0085;(FX) switch leap with 1 turn",
+            "frame": 2135,
+            "label": "FX_leap_jump_hop_start"
+          },
+          {
+            "comment": "A_0084_0085;(FX) switch leap with 1 turn",
+            "frame": 2157,
+            "label": "FX_leap_jump_hop_end"
+          },
+          {
+            "comment": "A_0102_0103;(FX) double salto backward tucked",
+            "frame": 2579,
+            "label": "FX_back_salto_start"
+          },
+          {
+            "comment": "A_0102_0103;(FX) double salto backward tucked",
+            "frame": 2622,
+            "label": "FX_back_salto_end"
+          }
+        ],
+        "fps": 25.0,
+        "height": 720,
+        "num_events": 22,
+        "num_frames": 2780,
+        "video": "esQQbBhuXbM_E_002103_002211",
+        "width": 1280
+      },
+      "archive": 3,
+      "member": "finegym_04/esQQbBhuXbM_E_002103_002211.mp4",
+      "bytes": 12028618,
+      "zip_crc32": 417226943,
+      "sha256": "b277879df08af4e5aaa0eb1f7b39deab0ead005ffbabc5fb0c87a466fd14b005"
+    }
+  ],
+  "alignment": "Archive clip origin assumed to be integer start seconds in event ID; retain source-label absolute frame coordinates; report trimming limitation explicitly."
+}

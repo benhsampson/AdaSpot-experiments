@@ -17,3 +17,13 @@ Strict loading into the actual full PyTorch module; two-clip inference smoke tes
 ## Data access findings
 
 The official FineDiving source requires an emailed access agreement. Its `JNU-SmartEducation/FineDiving-Test` Hugging Face mirror returned HTTP 401 for the archive. Tennis source access and publicly downloadable FineGym archives are being checked before choosing the final source.
+
+## Verified milestone: checkpoint and data
+
+Both `Tennis_big` (15,300,637 parameters) and `FineGym_big` (15,369,355 parameters) passed strict loading and tensor equality with the published checkpoint. No model source changes were needed with the locked environment.
+
+YouTube rejected both Tennis probes with a sign-in/bot check. The final subset therefore uses FineGym footage from the Sports-QA authors (`HopLeeTop/Sports-QA`), selecting 20 test clips (five per apparatus, all 32 classes) and two separate training clips. HTTP range access to ZIP members reduces the payload to 194,432,641 bytes. `validation/subset.json` pins the source revision, members, original labels, and video hashes.
+
+JPEG extraction is cached at `/tmp/adaspot-finegym-frames` because network-mounted per-frame files were much slower. Persistent input videos remain in `artifacts/finegym/videos`; rerunning the downloader regenerates and verifies frames. Override with `ADASPOT_FRAME_DIR` if needed.
+
+The two-clip GPU smoke test processed 2,340 frames, with a peak allocation of 1,525,325,312 bytes. It yielded soft-NMS mAP of 21.60%, 38.15%, 39.60%, and 40.55% at tolerances 0/1/2/4 frames. These are preliminary subset measurements, with the archive-trimming caveat documented in the manifest.

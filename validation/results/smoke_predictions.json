@@ -1,0 +1,7013 @@
+{
+  "raw": [
+    {
+      "video": "5Bfx6Wz3KKs_E_019366_019418",
+      "events": [
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 230,
+          "score": 0.010501861572265625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 231,
+          "score": 0.012371063232421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 232,
+          "score": 0.013330459594726562
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 233,
+          "score": 0.014227867126464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 234,
+          "score": 0.012027740478515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 235,
+          "score": 0.014199256896972656
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 236,
+          "score": 0.013606071472167969
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 237,
+          "score": 0.012518882751464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 238,
+          "score": 0.011750221252441406
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 238,
+          "score": 0.010898590087890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 239,
+          "score": 0.010639190673828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 239,
+          "score": 0.01297760009765625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 240,
+          "score": 0.010089874267578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 603,
+          "score": 0.0103302001953125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 604,
+          "score": 0.0109405517578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 605,
+          "score": 0.0130462646484375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 606,
+          "score": 0.01496124267578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 607,
+          "score": 0.015960693359375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 608,
+          "score": 0.01696014404296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 609,
+          "score": 0.01865386962890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 610,
+          "score": 0.0216064453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 611,
+          "score": 0.0218505859375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 612,
+          "score": 0.0235443115234375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 613,
+          "score": 0.0218353271484375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 614,
+          "score": 0.0289459228515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 615,
+          "score": 0.0289459228515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 616,
+          "score": 0.0286102294921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 617,
+          "score": 0.0289306640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 618,
+          "score": 0.0316314697265625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 619,
+          "score": 0.0265960693359375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 620,
+          "score": 0.02679443359375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 621,
+          "score": 0.0252685546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 622,
+          "score": 0.02520751953125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 623,
+          "score": 0.02606201171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 624,
+          "score": 0.02960205078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 625,
+          "score": 0.032684326171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 626,
+          "score": 0.0361328125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 627,
+          "score": 0.04315185546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 628,
+          "score": 0.039794921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 629,
+          "score": 0.04412841796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 630,
+          "score": 0.03875732421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 631,
+          "score": 0.03607177734375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 632,
+          "score": 0.029052734375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 633,
+          "score": 0.02789306640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 634,
+          "score": 0.023223876953125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 635,
+          "score": 0.02459716796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 636,
+          "score": 0.02685546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 637,
+          "score": 0.023223876953125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 638,
+          "score": 0.02484130859375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 639,
+          "score": 0.0203857421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 640,
+          "score": 0.01788330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 641,
+          "score": 0.0133056640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 642,
+          "score": 0.014892578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 643,
+          "score": 0.014373779296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 644,
+          "score": 0.010833740234375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 647,
+          "score": 0.012969970703125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 648,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 649,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 649,
+          "score": 0.02972412109375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 650,
+          "score": 0.030517578125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 651,
+          "score": 0.02288818359375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 651,
+          "score": 0.012603759765625
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 652,
+          "score": 0.011138916015625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 654,
+          "score": 0.0117950439453125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 655,
+          "score": 0.0338134765625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 656,
+          "score": 0.059814453125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 656,
+          "score": 0.01409912109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 657,
+          "score": 0.012420654296875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 657,
+          "score": 0.0606689453125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 657,
+          "score": 0.018798828125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 658,
+          "score": 0.01583099365234375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 658,
+          "score": 0.0582275390625
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 658,
+          "score": 0.0233154296875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 659,
+          "score": 0.0157012939453125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 659,
+          "score": 0.068115234375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 659,
+          "score": 0.021240234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 660,
+          "score": 0.014129638671875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 660,
+          "score": 0.089599609375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 660,
+          "score": 0.02325439453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 661,
+          "score": 0.01507568359375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 661,
+          "score": 0.08203125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 661,
+          "score": 0.032470703125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 662,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 662,
+          "score": 0.038818359375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 663,
+          "score": 0.03662109375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 663,
+          "score": 0.04364013671875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 664,
+          "score": 0.02001953125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 664,
+          "score": 0.03485107421875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 665,
+          "score": 0.011688232421875
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 665,
+          "score": 0.016571044921875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 675,
+          "score": 0.014190673828125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 676,
+          "score": 0.01611328125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 677,
+          "score": 0.016998291015625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 678,
+          "score": 0.015106201171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 679,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 680,
+          "score": 0.012786865234375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 681,
+          "score": 0.018310546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 682,
+          "score": 0.01983642578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 683,
+          "score": 0.02496337890625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 684,
+          "score": 0.0201416015625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 685,
+          "score": 0.02203369140625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 686,
+          "score": 0.01934814453125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 687,
+          "score": 0.0235595703125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 688,
+          "score": 0.02490234375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 689,
+          "score": 0.02423095703125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 690,
+          "score": 0.023681640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 691,
+          "score": 0.015350341796875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 692,
+          "score": 0.0213623046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 693,
+          "score": 0.02593994140625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 694,
+          "score": 0.02911376953125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 695,
+          "score": 0.010493278503417969
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 706,
+          "score": 0.010544776916503906
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 707,
+          "score": 0.010998725891113281
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 708,
+          "score": 0.011251449584960938
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 710,
+          "score": 0.010162353515625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 711,
+          "score": 0.010850906372070312
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 712,
+          "score": 0.010418891906738281
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 918,
+          "score": 0.0103302001953125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 919,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 920,
+          "score": 0.0124664306640625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 921,
+          "score": 0.0137176513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 922,
+          "score": 0.013275146484375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 923,
+          "score": 0.01416015625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 924,
+          "score": 0.01291656494140625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 925,
+          "score": 0.016845703125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 926,
+          "score": 0.0176849365234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 927,
+          "score": 0.0180511474609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 928,
+          "score": 0.0179290771484375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 929,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 930,
+          "score": 0.022186279296875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 931,
+          "score": 0.02435302734375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 932,
+          "score": 0.02581787109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 933,
+          "score": 0.028167724609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 934,
+          "score": 0.032012939453125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 935,
+          "score": 0.033050537109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 936,
+          "score": 0.03656005859375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 937,
+          "score": 0.034149169921875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 938,
+          "score": 0.039794921875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 939,
+          "score": 0.043426513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 940,
+          "score": 0.041259765625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 941,
+          "score": 0.0366668701171875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 942,
+          "score": 0.039642333984375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 943,
+          "score": 0.0428619384765625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 944,
+          "score": 0.04681396484375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 945,
+          "score": 0.08740234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 946,
+          "score": 0.091796875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 947,
+          "score": 0.09716796875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 948,
+          "score": 0.099609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 949,
+          "score": 0.09375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 950,
+          "score": 0.08837890625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 951,
+          "score": 0.086181640625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 952,
+          "score": 0.083740234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 953,
+          "score": 0.07568359375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 954,
+          "score": 0.0693359375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 955,
+          "score": 0.0557861328125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 956,
+          "score": 0.050537109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 957,
+          "score": 0.037353515625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 958,
+          "score": 0.0296630859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 959,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 959,
+          "score": 0.02496337890625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 960,
+          "score": 0.018096923828125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 960,
+          "score": 0.015533447265625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 961,
+          "score": 0.022735595703125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 961,
+          "score": 0.0107421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 962,
+          "score": 0.02984619140625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 963,
+          "score": 0.030029296875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 964,
+          "score": 0.03631591796875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 965,
+          "score": 0.0439453125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 966,
+          "score": 0.03814697265625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 967,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 968,
+          "score": 0.0548095703125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 969,
+          "score": 0.063232421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 970,
+          "score": 0.061279296875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 971,
+          "score": 0.075927734375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 972,
+          "score": 0.07177734375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 973,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 974,
+          "score": 0.0523681640625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 975,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 976,
+          "score": 0.0577392578125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 977,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 978,
+          "score": 0.051513671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 979,
+          "score": 0.058349609375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 980,
+          "score": 0.06005859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 981,
+          "score": 0.0567626953125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 982,
+          "score": 0.055908203125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 983,
+          "score": 0.0501708984375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 984,
+          "score": 0.0499267578125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 985,
+          "score": 0.03509521484375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 986,
+          "score": 0.03704833984375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 987,
+          "score": 0.027252197265625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 988,
+          "score": 0.018096923828125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 989,
+          "score": 0.0101318359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1146,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1147,
+          "score": 0.0128173828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1148,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1149,
+          "score": 0.014862060546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1150,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1151,
+          "score": 0.01605224609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1152,
+          "score": 0.0185546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1153,
+          "score": 0.0189208984375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1154,
+          "score": 0.02093505859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1155,
+          "score": 0.024169921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1156,
+          "score": 0.02764892578125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1157,
+          "score": 0.027099609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1158,
+          "score": 0.033447265625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1159,
+          "score": 0.0394287109375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1160,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1161,
+          "score": 0.06640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1162,
+          "score": 0.071044921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1163,
+          "score": 0.0577392578125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1164,
+          "score": 0.0679931640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1165,
+          "score": 0.059326171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1166,
+          "score": 0.0552978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1167,
+          "score": 0.05419921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1168,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1169,
+          "score": 0.057861328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1170,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1171,
+          "score": 0.048583984375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1172,
+          "score": 0.041748046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1173,
+          "score": 0.041748046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1174,
+          "score": 0.0399169921875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1175,
+          "score": 0.012939453125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1175,
+          "score": 0.0443115234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1176,
+          "score": 0.015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1176,
+          "score": 0.0382080078125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1177,
+          "score": 0.01922607421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1177,
+          "score": 0.03173828125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1178,
+          "score": 0.02435302734375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1178,
+          "score": 0.0244140625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1179,
+          "score": 0.03076171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1179,
+          "score": 0.021240234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1180,
+          "score": 0.0335693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1180,
+          "score": 0.016937255859375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1181,
+          "score": 0.0426025390625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1181,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1182,
+          "score": 0.0504150390625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1183,
+          "score": 0.072509765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1184,
+          "score": 0.091552734375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1185,
+          "score": 0.088623046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1186,
+          "score": 0.109619140625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1187,
+          "score": 0.14111328125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1188,
+          "score": 0.13134765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1189,
+          "score": 0.084716796875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1190,
+          "score": 0.08984375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1191,
+          "score": 0.078125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1192,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1193,
+          "score": 0.0572509765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1194,
+          "score": 0.04736328125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1195,
+          "score": 0.0211334228515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1195,
+          "score": 0.011035919189453125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1196,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1196,
+          "score": 0.019992828369140625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1197,
+          "score": 0.019927978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1197,
+          "score": 0.0222625732421875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1198,
+          "score": 0.01605224609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1198,
+          "score": 0.021183013916015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1199,
+          "score": 0.016561508178710938
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1200,
+          "score": 0.012449264526367188
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1201,
+          "score": 0.010618209838867188
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1202,
+          "score": 0.0146636962890625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1203,
+          "score": 0.01361846923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1204,
+          "score": 0.012783050537109375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1205,
+          "score": 0.015346527099609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1206,
+          "score": 0.01551055908203125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1207,
+          "score": 0.011016845703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1207,
+          "score": 0.014247894287109375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1208,
+          "score": 0.013393402099609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1209,
+          "score": 0.010906219482421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1210,
+          "score": 0.010904312133789062
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1211,
+          "score": 0.011529922485351562
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1212,
+          "score": 0.010105133056640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1229,
+          "score": 0.015575408935546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1230,
+          "score": 0.01842498779296875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1231,
+          "score": 0.0212249755859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1232,
+          "score": 0.02101898193359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1233,
+          "score": 0.0216217041015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1234,
+          "score": 0.0268096923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1235,
+          "score": 0.0237884521484375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1236,
+          "score": 0.0273895263671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1237,
+          "score": 0.0324554443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1238,
+          "score": 0.043701171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1239,
+          "score": 0.0345306396484375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1240,
+          "score": 0.030364990234375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1241,
+          "score": 0.039276123046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1242,
+          "score": 0.04079437255859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1243,
+          "score": 0.0425262451171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1244,
+          "score": 0.0466766357421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1245,
+          "score": 0.10791015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1246,
+          "score": 0.104248046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1247,
+          "score": 0.10693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1248,
+          "score": 0.0740966796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1249,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1250,
+          "score": 0.04669189453125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1251,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1252,
+          "score": 0.03448486328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1253,
+          "score": 0.0252685546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1254,
+          "score": 0.0213623046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1255,
+          "score": 0.01373291015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1255,
+          "score": 0.025634765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1256,
+          "score": 0.015594482421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1256,
+          "score": 0.02386474609375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1257,
+          "score": 0.01025390625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1257,
+          "score": 0.011871337890625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1260,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1266,
+          "score": 0.0135498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1267,
+          "score": 0.017578125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1268,
+          "score": 0.0184326171875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1269,
+          "score": 0.015045166015625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1270,
+          "score": 0.01153564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1445,
+          "score": 0.01332855224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1446,
+          "score": 0.0147857666015625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1447,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1448,
+          "score": 0.017608642578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1449,
+          "score": 0.0185699462890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1450,
+          "score": 0.0208282470703125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1451,
+          "score": 0.0224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1452,
+          "score": 0.024078369140625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1453,
+          "score": 0.024658203125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1454,
+          "score": 0.02447509765625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1455,
+          "score": 0.02490234375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1456,
+          "score": 0.02655029296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1457,
+          "score": 0.02740478515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1458,
+          "score": 0.028961181640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1459,
+          "score": 0.028839111328125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1460,
+          "score": 0.028564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1461,
+          "score": 0.02825927734375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1462,
+          "score": 0.02886962890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1463,
+          "score": 0.028106689453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1464,
+          "score": 0.02899169921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1465,
+          "score": 0.021453857421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1466,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1467,
+          "score": 0.024322509765625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1468,
+          "score": 0.0301513671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1468,
+          "score": 0.01026153564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1469,
+          "score": 0.02545166015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1469,
+          "score": 0.011363983154296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1470,
+          "score": 0.02508544921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1470,
+          "score": 0.010433197021484375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1471,
+          "score": 0.022857666015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1471,
+          "score": 0.010936737060546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1472,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1472,
+          "score": 0.012176513671875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1473,
+          "score": 0.01898193359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1473,
+          "score": 0.013805389404296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1474,
+          "score": 0.017242431640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1474,
+          "score": 0.015453338623046875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1475,
+          "score": 0.014495849609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1475,
+          "score": 0.01259613037109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1476,
+          "score": 0.0133514404296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1476,
+          "score": 0.011260986328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1476,
+          "score": 0.010112762451171875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1477,
+          "score": 0.013916015625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1477,
+          "score": 0.0106658935546875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1478,
+          "score": 0.011993408203125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1479,
+          "score": 0.0139007568359375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1480,
+          "score": 0.01324462890625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1481,
+          "score": 0.01458740234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1482,
+          "score": 0.0146331787109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1483,
+          "score": 0.0163116455078125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1484,
+          "score": 0.016815185546875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1485,
+          "score": 0.02777099609375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1486,
+          "score": 0.034423828125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1486,
+          "score": 0.01470947265625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1487,
+          "score": 0.042449951171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1487,
+          "score": 0.021453857421875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1488,
+          "score": 0.04205322265625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1488,
+          "score": 0.0330810546875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1489,
+          "score": 0.0465087890625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1489,
+          "score": 0.057861328125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1490,
+          "score": 0.03887939453125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1490,
+          "score": 0.03179931640625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1491,
+          "score": 0.0239715576171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1491,
+          "score": 0.022552490234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1492,
+          "score": 0.0192413330078125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1492,
+          "score": 0.0181732177734375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1493,
+          "score": 0.01902008056640625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1493,
+          "score": 0.015655517578125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1494,
+          "score": 0.022796630859375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1494,
+          "score": 0.0141754150390625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1495,
+          "score": 0.0313720703125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1495,
+          "score": 0.0176239013671875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1496,
+          "score": 0.0438232421875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1496,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1497,
+          "score": 0.040771484375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1497,
+          "score": 0.0189208984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1498,
+          "score": 0.0531005859375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1498,
+          "score": 0.02325439453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1499,
+          "score": 0.0638427734375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1499,
+          "score": 0.02197265625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1500,
+          "score": 0.0478515625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1500,
+          "score": 0.01641845703125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1501,
+          "score": 0.0238037109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1502,
+          "score": 0.01556396484375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1503,
+          "score": 0.010345458984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1504,
+          "score": 0.01263427734375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1505,
+          "score": 0.016021728515625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1506,
+          "score": 0.013702392578125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1513,
+          "score": 0.01385498046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1533,
+          "score": 0.01593017578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1534,
+          "score": 0.02679443359375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1535,
+          "score": 0.0382080078125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1536,
+          "score": 0.0430908203125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1537,
+          "score": 0.049072265625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1538,
+          "score": 0.05328369140625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1539,
+          "score": 0.07147216796875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1540,
+          "score": 0.06268310546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1541,
+          "score": 0.05810546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1542,
+          "score": 0.0838623046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1543,
+          "score": 0.0950927734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1544,
+          "score": 0.0989990234375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1545,
+          "score": 0.1767578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1546,
+          "score": 0.171875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1547,
+          "score": 0.1767578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1548,
+          "score": 0.177734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1549,
+          "score": 0.1552734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1550,
+          "score": 0.130859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1551,
+          "score": 0.1220703125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1552,
+          "score": 0.12109375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1553,
+          "score": 0.11962890625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1554,
+          "score": 0.10009765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1555,
+          "score": 0.0888671875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1556,
+          "score": 0.0986328125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1557,
+          "score": 0.0791015625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1558,
+          "score": 0.07373046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1559,
+          "score": 0.053466796875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1560,
+          "score": 0.056396484375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1561,
+          "score": 0.04833984375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1562,
+          "score": 0.04150390625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1563,
+          "score": 0.034423828125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1564,
+          "score": 0.0281982421875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1565,
+          "score": 0.0247802734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1566,
+          "score": 0.0211181640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1567,
+          "score": 0.0196533203125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1568,
+          "score": 0.015380859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1569,
+          "score": 0.0140380859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1570,
+          "score": 0.0106201171875
+        }
+      ],
+      "fps": 30.0
+    },
+    {
+      "video": "nEoD3t5O3Hg_E_008416_008445",
+      "events": [
+        {
+          "label": "UB_circles_end",
+          "frame": 95,
+          "score": 0.015714645385742188
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 95,
+          "score": 0.063690185546875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 96,
+          "score": 0.01595306396484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 96,
+          "score": 0.091552734375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 97,
+          "score": 0.0185699462890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 97,
+          "score": 0.153564453125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 98,
+          "score": 0.01905059814453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 98,
+          "score": 0.2060546875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 99,
+          "score": 0.016399383544921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 99,
+          "score": 0.22412109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 100,
+          "score": 0.015777587890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 100,
+          "score": 0.240234375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 101,
+          "score": 0.01715087890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 101,
+          "score": 0.2529296875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 102,
+          "score": 0.0232391357421875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 102,
+          "score": 0.3544921875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 103,
+          "score": 0.02780914306640625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 103,
+          "score": 0.416015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 104,
+          "score": 0.02918243408203125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 104,
+          "score": 0.4150390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 105,
+          "score": 0.0319671630859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 105,
+          "score": 0.41015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 106,
+          "score": 0.0327911376953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 106,
+          "score": 0.375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 107,
+          "score": 0.02835845947265625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 107,
+          "score": 0.29248046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 108,
+          "score": 0.02001190185546875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 108,
+          "score": 0.208984375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 109,
+          "score": 0.01290130615234375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 109,
+          "score": 0.109619140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 110,
+          "score": 0.0426025390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 111,
+          "score": 0.017852783203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 132,
+          "score": 0.028167724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 133,
+          "score": 0.0279541015625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 134,
+          "score": 0.013458251953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 143,
+          "score": 0.04864501953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 144,
+          "score": 0.17724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 144,
+          "score": 0.0223388671875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 145,
+          "score": 0.353515625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 145,
+          "score": 0.03851318359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 146,
+          "score": 0.654296875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 146,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 147,
+          "score": 0.486328125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 147,
+          "score": 0.30712890625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 148,
+          "score": 0.2578125
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 148,
+          "score": 0.011474609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 148,
+          "score": 0.34375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 149,
+          "score": 0.034393310546875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 149,
+          "score": 0.0504150390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 150,
+          "score": 0.05419921875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 150,
+          "score": 0.012847900390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 151,
+          "score": 0.0933837890625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 152,
+          "score": 0.03216552734375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 163,
+          "score": 0.17822265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 164,
+          "score": 0.70703125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 165,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 166,
+          "score": 0.2783203125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 167,
+          "score": 0.029296875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 194,
+          "score": 0.01797962188720703
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 197,
+          "score": 0.04561614990234375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 197,
+          "score": 0.092041015625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 198,
+          "score": 0.136932373046875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 198,
+          "score": 0.4140625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 199,
+          "score": 0.129547119140625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 199,
+          "score": 0.5673828125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 200,
+          "score": 0.07669830322265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 200,
+          "score": 0.55078125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 201,
+          "score": 0.024883270263671875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 201,
+          "score": 0.197998046875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 202,
+          "score": 0.026214599609375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 224,
+          "score": 0.01385498046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 225,
+          "score": 0.010711669921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 225,
+          "score": 0.016754150390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 226,
+          "score": 0.015411376953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 227,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 227,
+          "score": 0.012481689453125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 237,
+          "score": 0.037109375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 238,
+          "score": 0.140869140625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 239,
+          "score": 0.3212890625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 239,
+          "score": 0.0125732421875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 240,
+          "score": 0.62109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 240,
+          "score": 0.0303192138671875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 241,
+          "score": 0.5419921875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 241,
+          "score": 0.040130615234375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 242,
+          "score": 0.2158203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 242,
+          "score": 0.0350494384765625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 243,
+          "score": 0.0782470703125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 243,
+          "score": 0.0214385986328125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 244,
+          "score": 0.02264404296875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 244,
+          "score": 0.010568618774414062
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 245,
+          "score": 0.016056060791015625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 291,
+          "score": 0.01702880859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 292,
+          "score": 0.034423828125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 293,
+          "score": 0.091064453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 294,
+          "score": 0.19873046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 295,
+          "score": 0.03106689453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 295,
+          "score": 0.2431640625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 296,
+          "score": 0.0304718017578125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 296,
+          "score": 0.31884765625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 297,
+          "score": 0.03476715087890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 297,
+          "score": 0.361328125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 298,
+          "score": 0.03119659423828125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 298,
+          "score": 0.33203125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 299,
+          "score": 0.02945709228515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 299,
+          "score": 0.287109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 300,
+          "score": 0.03000640869140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 300,
+          "score": 0.318359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 301,
+          "score": 0.03546142578125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 301,
+          "score": 0.31640625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 302,
+          "score": 0.0357818603515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 302,
+          "score": 0.2568359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 303,
+          "score": 0.030975341796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 303,
+          "score": 0.18798828125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 304,
+          "score": 0.02452850341796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 304,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 305,
+          "score": 0.01725006103515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 305,
+          "score": 0.0673828125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 306,
+          "score": 0.031005859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 307,
+          "score": 0.010284423828125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 326,
+          "score": 0.010528564453125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 327,
+          "score": 0.012298583984375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 338,
+          "score": 0.04931640625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 339,
+          "score": 0.59765625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 339,
+          "score": 0.02117919921875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 340,
+          "score": 0.693359375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 340,
+          "score": 0.23974609375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 341,
+          "score": 0.07568359375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 341,
+          "score": 0.84765625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 342,
+          "score": 0.0113525390625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 342,
+          "score": 0.3330078125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 343,
+          "score": 0.015533447265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 356,
+          "score": 0.0377197265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 357,
+          "score": 0.349609375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 358,
+          "score": 0.83984375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 359,
+          "score": 0.833984375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 360,
+          "score": 0.3828125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 361,
+          "score": 0.0325927734375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 418,
+          "score": 0.014617919921875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 419,
+          "score": 0.11669921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 419,
+          "score": 0.018646240234375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 420,
+          "score": 0.34521484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 420,
+          "score": 0.1103515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 421,
+          "score": 0.2666015625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 421,
+          "score": 0.177001953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 422,
+          "score": 0.1177978515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 422,
+          "score": 0.140380859375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 423,
+          "score": 0.031890869140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 423,
+          "score": 0.05810546875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 424,
+          "score": 0.0167236328125
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 437,
+          "score": 0.17822265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 437,
+          "score": 0.03146553039550781
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 438,
+          "score": 0.016815185546875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 438,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 438,
+          "score": 0.12056159973144531
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 439,
+          "score": 0.014713287353515625
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 439,
+          "score": 0.4267578125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 439,
+          "score": 0.1172943115234375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 440,
+          "score": 0.213134765625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 440,
+          "score": 0.04811859130859375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 441,
+          "score": 0.02154541015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 451,
+          "score": 0.143798828125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 452,
+          "score": 0.71484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 452,
+          "score": 0.052978515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 453,
+          "score": 0.19140625
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 453,
+          "score": 0.65234375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 454,
+          "score": 0.017547607421875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 454,
+          "score": 0.767578125
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 455,
+          "score": 0.0703125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 478,
+          "score": 0.1484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 478,
+          "score": 0.02060699462890625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 478,
+          "score": 0.022613525390625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 479,
+          "score": 0.4482421875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 479,
+          "score": 0.028839111328125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 479,
+          "score": 0.0775146484375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 480,
+          "score": 0.4287109375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 480,
+          "score": 0.0270843505859375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 480,
+          "score": 0.207275390625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 481,
+          "score": 0.2109375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 481,
+          "score": 0.02117919921875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 481,
+          "score": 0.29443359375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 482,
+          "score": 0.0740966796875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 482,
+          "score": 0.145751953125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 483,
+          "score": 0.02197265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 483,
+          "score": 0.03717041015625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 512,
+          "score": 0.0118408203125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 513,
+          "score": 0.088134765625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 513,
+          "score": 0.0902099609375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 514,
+          "score": 0.21630859375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 514,
+          "score": 0.30908203125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 515,
+          "score": 0.2138671875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 515,
+          "score": 0.35986328125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 516,
+          "score": 0.148193359375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 516,
+          "score": 0.25146484375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 517,
+          "score": 0.0394287109375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 517,
+          "score": 0.05303955078125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 518,
+          "score": 0.011444091796875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 518,
+          "score": 0.012481689453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 572,
+          "score": 0.02777099609375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 573,
+          "score": 0.23486328125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 574,
+          "score": 0.4990234375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 575,
+          "score": 0.650390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 576,
+          "score": 0.54296875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 577,
+          "score": 0.23876953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 578,
+          "score": 0.0439453125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 628,
+          "score": 0.078857421875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 629,
+          "score": 0.4833984375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 629,
+          "score": 0.037109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 630,
+          "score": 0.681640625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 630,
+          "score": 0.09449005126953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 631,
+          "score": 0.59375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 631,
+          "score": 0.1532745361328125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 632,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 632,
+          "score": 0.164459228515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 633,
+          "score": 0.20947265625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 633,
+          "score": 0.101654052734375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 634,
+          "score": 0.0531005859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 634,
+          "score": 0.0336151123046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 635,
+          "score": 0.011383056640625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 650,
+          "score": 0.01153564453125
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 651,
+          "score": 0.2041015625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 652,
+          "score": 0.724609375
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 653,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 654,
+          "score": 0.3740234375
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 655,
+          "score": 0.038330078125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 717,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 718,
+          "score": 0.03875732421875
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 719,
+          "score": 0.105712890625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 720,
+          "score": 0.124755859375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 721,
+          "score": 0.139404296875
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 722,
+          "score": 0.20751953125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 723,
+          "score": 0.306640625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 724,
+          "score": 0.45703125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 725,
+          "score": 0.490234375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 726,
+          "score": 0.35791015625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 727,
+          "score": 0.17578125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 728,
+          "score": 0.0982666015625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 729,
+          "score": 0.05474853515625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 730,
+          "score": 0.04833984375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 731,
+          "score": 0.03662109375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 732,
+          "score": 0.0291748046875
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 733,
+          "score": 0.0162353515625
+        }
+      ],
+      "fps": 25.0
+    }
+  ],
+  "nms": [
+    {
+      "video": "5Bfx6Wz3KKs_E_019366_019418",
+      "events": [
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 231,
+          "score": 0.012371063232421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 233,
+          "score": 0.014227867126464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 235,
+          "score": 0.014199256896972656
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 237,
+          "score": 0.012518882751464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 239,
+          "score": 0.010639190673828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 239,
+          "score": 0.01297760009765625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 604,
+          "score": 0.0109405517578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 606,
+          "score": 0.01496124267578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 608,
+          "score": 0.01696014404296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 610,
+          "score": 0.0216064453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 612,
+          "score": 0.0235443115234375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 614,
+          "score": 0.0289459228515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 616,
+          "score": 0.0286102294921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 618,
+          "score": 0.0316314697265625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 620,
+          "score": 0.02679443359375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 623,
+          "score": 0.02606201171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 625,
+          "score": 0.032684326171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 627,
+          "score": 0.04315185546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 629,
+          "score": 0.04412841796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 631,
+          "score": 0.03607177734375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 633,
+          "score": 0.02789306640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 636,
+          "score": 0.02685546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 638,
+          "score": 0.02484130859375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 640,
+          "score": 0.01788330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 642,
+          "score": 0.014892578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 644,
+          "score": 0.010833740234375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 648,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 649,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 650,
+          "score": 0.030517578125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 651,
+          "score": 0.012603759765625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 655,
+          "score": 0.0338134765625
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 656,
+          "score": 0.01409912109375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 657,
+          "score": 0.0606689453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 658,
+          "score": 0.01583099365234375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 658,
+          "score": 0.0233154296875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 660,
+          "score": 0.089599609375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 661,
+          "score": 0.01507568359375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 661,
+          "score": 0.032470703125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 662,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 663,
+          "score": 0.04364013671875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 664,
+          "score": 0.02001953125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 665,
+          "score": 0.016571044921875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 675,
+          "score": 0.014190673828125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 677,
+          "score": 0.016998291015625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 679,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 681,
+          "score": 0.018310546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 683,
+          "score": 0.02496337890625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 685,
+          "score": 0.02203369140625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 688,
+          "score": 0.02490234375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 690,
+          "score": 0.023681640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 692,
+          "score": 0.0213623046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 694,
+          "score": 0.02911376953125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 706,
+          "score": 0.010544776916503906
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 708,
+          "score": 0.011251449584960938
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 711,
+          "score": 0.010850906372070312
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 919,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 921,
+          "score": 0.0137176513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 923,
+          "score": 0.01416015625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 925,
+          "score": 0.016845703125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 927,
+          "score": 0.0180511474609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 929,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 932,
+          "score": 0.02581787109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 934,
+          "score": 0.032012939453125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 936,
+          "score": 0.03656005859375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 939,
+          "score": 0.043426513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 942,
+          "score": 0.039642333984375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 944,
+          "score": 0.04681396484375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 946,
+          "score": 0.091796875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 948,
+          "score": 0.099609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 950,
+          "score": 0.08837890625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 952,
+          "score": 0.083740234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 954,
+          "score": 0.0693359375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 956,
+          "score": 0.050537109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 958,
+          "score": 0.0296630859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 959,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 960,
+          "score": 0.015533447265625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 961,
+          "score": 0.022735595703125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 963,
+          "score": 0.030029296875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 965,
+          "score": 0.0439453125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 967,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 969,
+          "score": 0.063232421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 971,
+          "score": 0.075927734375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 973,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 975,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 977,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 980,
+          "score": 0.06005859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 982,
+          "score": 0.055908203125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 984,
+          "score": 0.0499267578125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 986,
+          "score": 0.03704833984375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 988,
+          "score": 0.018096923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1146,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1148,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1150,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1152,
+          "score": 0.0185546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1154,
+          "score": 0.02093505859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1156,
+          "score": 0.02764892578125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1158,
+          "score": 0.033447265625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1160,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1162,
+          "score": 0.071044921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1164,
+          "score": 0.0679931640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1166,
+          "score": 0.0552978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1168,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1170,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1172,
+          "score": 0.041748046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1175,
+          "score": 0.0443115234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1176,
+          "score": 0.015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1177,
+          "score": 0.03173828125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1178,
+          "score": 0.02435302734375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1179,
+          "score": 0.021240234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1180,
+          "score": 0.0335693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1181,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1182,
+          "score": 0.0504150390625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1184,
+          "score": 0.091552734375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1187,
+          "score": 0.14111328125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1190,
+          "score": 0.08984375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1192,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1194,
+          "score": 0.04736328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1195,
+          "score": 0.011035919189453125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1196,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1197,
+          "score": 0.0222625732421875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1198,
+          "score": 0.01605224609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1199,
+          "score": 0.016561508178710938
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1202,
+          "score": 0.0146636962890625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1204,
+          "score": 0.012783050537109375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1206,
+          "score": 0.01551055908203125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1207,
+          "score": 0.011016845703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1208,
+          "score": 0.013393402099609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1211,
+          "score": 0.011529922485351562
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1229,
+          "score": 0.015575408935546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1231,
+          "score": 0.0212249755859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1234,
+          "score": 0.0268096923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1236,
+          "score": 0.0273895263671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1238,
+          "score": 0.043701171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1241,
+          "score": 0.039276123046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1243,
+          "score": 0.0425262451171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1245,
+          "score": 0.10791015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1247,
+          "score": 0.10693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1249,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1251,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1253,
+          "score": 0.0252685546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1255,
+          "score": 0.025634765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1256,
+          "score": 0.015594482421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1257,
+          "score": 0.011871337890625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1260,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1266,
+          "score": 0.0135498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1268,
+          "score": 0.0184326171875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1270,
+          "score": 0.01153564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1445,
+          "score": 0.01332855224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1447,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1449,
+          "score": 0.0185699462890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1451,
+          "score": 0.0224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1453,
+          "score": 0.024658203125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1456,
+          "score": 0.02655029296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1458,
+          "score": 0.028961181640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1460,
+          "score": 0.028564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1462,
+          "score": 0.02886962890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1464,
+          "score": 0.02899169921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1466,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1468,
+          "score": 0.0301513671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1469,
+          "score": 0.011363983154296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1470,
+          "score": 0.02508544921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1472,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1472,
+          "score": 0.012176513671875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1474,
+          "score": 0.017242431640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1474,
+          "score": 0.015453338623046875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1476,
+          "score": 0.011260986328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1476,
+          "score": 0.010112762451171875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1477,
+          "score": 0.013916015625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1479,
+          "score": 0.0139007568359375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1481,
+          "score": 0.01458740234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1483,
+          "score": 0.0163116455078125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1485,
+          "score": 0.02777099609375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1487,
+          "score": 0.021453857421875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1487,
+          "score": 0.042449951171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1489,
+          "score": 0.057861328125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1489,
+          "score": 0.0465087890625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1491,
+          "score": 0.022552490234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1491,
+          "score": 0.0239715576171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1493,
+          "score": 0.015655517578125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1494,
+          "score": 0.022796630859375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1496,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1496,
+          "score": 0.0438232421875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1498,
+          "score": 0.02325439453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1499,
+          "score": 0.0638427734375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1500,
+          "score": 0.01641845703125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1501,
+          "score": 0.0238037109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1503,
+          "score": 0.010345458984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1505,
+          "score": 0.016021728515625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1513,
+          "score": 0.01385498046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1533,
+          "score": 0.01593017578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1535,
+          "score": 0.0382080078125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1537,
+          "score": 0.049072265625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1539,
+          "score": 0.07147216796875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1541,
+          "score": 0.05810546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1543,
+          "score": 0.0950927734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1545,
+          "score": 0.1767578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1548,
+          "score": 0.177734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1550,
+          "score": 0.130859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1552,
+          "score": 0.12109375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1554,
+          "score": 0.10009765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1556,
+          "score": 0.0986328125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1558,
+          "score": 0.07373046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1560,
+          "score": 0.056396484375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1562,
+          "score": 0.04150390625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1564,
+          "score": 0.0281982421875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1566,
+          "score": 0.0211181640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1568,
+          "score": 0.015380859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1570,
+          "score": 0.0106201171875
+        }
+      ],
+      "fps": 30.0,
+      "num_events": 208
+    },
+    {
+      "video": "nEoD3t5O3Hg_E_008416_008445",
+      "events": [
+        {
+          "label": "UB_circles_start",
+          "frame": 95,
+          "score": 0.063690185546875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 96,
+          "score": 0.01595306396484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 97,
+          "score": 0.153564453125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 98,
+          "score": 0.01905059814453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 99,
+          "score": 0.22412109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 100,
+          "score": 0.015777587890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 101,
+          "score": 0.2529296875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 102,
+          "score": 0.0232391357421875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 103,
+          "score": 0.416015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 104,
+          "score": 0.02918243408203125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 105,
+          "score": 0.41015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 106,
+          "score": 0.0327911376953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 107,
+          "score": 0.29248046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 108,
+          "score": 0.02001190185546875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 109,
+          "score": 0.109619140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 111,
+          "score": 0.017852783203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 132,
+          "score": 0.028167724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 134,
+          "score": 0.013458251953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 144,
+          "score": 0.17724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 144,
+          "score": 0.0223388671875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 146,
+          "score": 0.654296875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 146,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 148,
+          "score": 0.2578125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 148,
+          "score": 0.34375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 148,
+          "score": 0.011474609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 150,
+          "score": 0.012847900390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 151,
+          "score": 0.0933837890625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 163,
+          "score": 0.17822265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 165,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 167,
+          "score": 0.029296875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 194,
+          "score": 0.01797962188720703
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 197,
+          "score": 0.092041015625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 198,
+          "score": 0.136932373046875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 199,
+          "score": 0.5673828125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 200,
+          "score": 0.07669830322265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 201,
+          "score": 0.197998046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 225,
+          "score": 0.010711669921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 225,
+          "score": 0.016754150390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 227,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 227,
+          "score": 0.012481689453125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 238,
+          "score": 0.140869140625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 239,
+          "score": 0.0125732421875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 240,
+          "score": 0.62109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 241,
+          "score": 0.040130615234375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 242,
+          "score": 0.2158203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 243,
+          "score": 0.0214385986328125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 244,
+          "score": 0.02264404296875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 291,
+          "score": 0.01702880859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 293,
+          "score": 0.091064453125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 295,
+          "score": 0.03106689453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 295,
+          "score": 0.2431640625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 297,
+          "score": 0.03476715087890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 297,
+          "score": 0.361328125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 300,
+          "score": 0.03000640869140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 300,
+          "score": 0.318359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 302,
+          "score": 0.0357818603515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 302,
+          "score": 0.2568359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 304,
+          "score": 0.02452850341796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 304,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 306,
+          "score": 0.031005859375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 327,
+          "score": 0.012298583984375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 338,
+          "score": 0.04931640625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 339,
+          "score": 0.02117919921875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 340,
+          "score": 0.693359375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 341,
+          "score": 0.84765625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 342,
+          "score": 0.0113525390625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 343,
+          "score": 0.015533447265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 356,
+          "score": 0.0377197265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 358,
+          "score": 0.83984375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 360,
+          "score": 0.3828125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 418,
+          "score": 0.014617919921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 419,
+          "score": 0.018646240234375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 420,
+          "score": 0.34521484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 421,
+          "score": 0.177001953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 422,
+          "score": 0.1177978515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 423,
+          "score": 0.05810546875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 438,
+          "score": 0.12056159973144531
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 438,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 438,
+          "score": 0.016815185546875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 440,
+          "score": 0.04811859130859375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 440,
+          "score": 0.213134765625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 452,
+          "score": 0.71484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 452,
+          "score": 0.052978515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 454,
+          "score": 0.017547607421875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 454,
+          "score": 0.767578125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 479,
+          "score": 0.0775146484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 479,
+          "score": 0.028839111328125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 479,
+          "score": 0.4482421875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 481,
+          "score": 0.29443359375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 481,
+          "score": 0.02117919921875
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 481,
+          "score": 0.2109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 483,
+          "score": 0.03717041015625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 483,
+          "score": 0.02197265625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 512,
+          "score": 0.0118408203125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 513,
+          "score": 0.0902099609375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 514,
+          "score": 0.21630859375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 515,
+          "score": 0.35986328125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 516,
+          "score": 0.148193359375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 517,
+          "score": 0.05303955078125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 518,
+          "score": 0.011444091796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 573,
+          "score": 0.23486328125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 575,
+          "score": 0.650390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 577,
+          "score": 0.23876953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 628,
+          "score": 0.078857421875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 630,
+          "score": 0.681640625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 630,
+          "score": 0.09449005126953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 632,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 632,
+          "score": 0.164459228515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 634,
+          "score": 0.0531005859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 634,
+          "score": 0.0336151123046875
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 651,
+          "score": 0.2041015625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 653,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 655,
+          "score": 0.038330078125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 717,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 719,
+          "score": 0.105712890625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 721,
+          "score": 0.139404296875
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 723,
+          "score": 0.306640625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 725,
+          "score": 0.490234375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 727,
+          "score": 0.17578125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 729,
+          "score": 0.05474853515625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 731,
+          "score": 0.03662109375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 733,
+          "score": 0.0162353515625
+        }
+      ],
+      "fps": 25.0,
+      "num_events": 122
+    }
+  ],
+  "soft_nms": [
+    {
+      "video": "5Bfx6Wz3KKs_E_019366_019418",
+      "events": [
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 231,
+          "score": 0.012371063232421875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 233,
+          "score": 0.014227867126464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 235,
+          "score": 0.014199256896972656
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 237,
+          "score": 0.012518882751464844
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 239,
+          "score": 0.010639190673828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 239,
+          "score": 0.01297760009765625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 604,
+          "score": 0.0109405517578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 606,
+          "score": 0.01496124267578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 608,
+          "score": 0.01696014404296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 610,
+          "score": 0.0216064453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 612,
+          "score": 0.0235443115234375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 614,
+          "score": 0.0289459228515625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 616,
+          "score": 0.0286102294921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 618,
+          "score": 0.0316314697265625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 620,
+          "score": 0.02679443359375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 623,
+          "score": 0.02606201171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 625,
+          "score": 0.032684326171875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 627,
+          "score": 0.04315185546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 629,
+          "score": 0.04412841796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 631,
+          "score": 0.03607177734375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 633,
+          "score": 0.02789306640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 636,
+          "score": 0.02685546875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 638,
+          "score": 0.02484130859375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 640,
+          "score": 0.01788330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 642,
+          "score": 0.014892578125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 644,
+          "score": 0.010833740234375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 648,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 649,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 650,
+          "score": 0.030517578125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 651,
+          "score": 0.012603759765625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 655,
+          "score": 0.0338134765625
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 656,
+          "score": 0.01409912109375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 657,
+          "score": 0.0606689453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 658,
+          "score": 0.01583099365234375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 658,
+          "score": 0.0233154296875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 659,
+          "score": 0.01702880859375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 660,
+          "score": 0.089599609375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 661,
+          "score": 0.01507568359375
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 661,
+          "score": 0.032470703125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 662,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 663,
+          "score": 0.04364013671875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 664,
+          "score": 0.02001953125
+        },
+        {
+          "label": "BB_flight_salto_start",
+          "frame": 665,
+          "score": 0.016571044921875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 675,
+          "score": 0.014190673828125
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 677,
+          "score": 0.016998291015625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 679,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 681,
+          "score": 0.018310546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 683,
+          "score": 0.02496337890625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 685,
+          "score": 0.02203369140625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 688,
+          "score": 0.02490234375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 690,
+          "score": 0.023681640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 692,
+          "score": 0.0213623046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 694,
+          "score": 0.02911376953125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 706,
+          "score": 0.010544776916503906
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 708,
+          "score": 0.011251449584960938
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 711,
+          "score": 0.010850906372070312
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 919,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 921,
+          "score": 0.0137176513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 923,
+          "score": 0.01416015625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 925,
+          "score": 0.016845703125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 927,
+          "score": 0.0180511474609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 929,
+          "score": 0.02239990234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 932,
+          "score": 0.02581787109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 934,
+          "score": 0.032012939453125
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 936,
+          "score": 0.03656005859375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 939,
+          "score": 0.043426513671875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 940,
+          "score": 0.01031494140625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 942,
+          "score": 0.039642333984375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 944,
+          "score": 0.04681396484375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 946,
+          "score": 0.091796875
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 948,
+          "score": 0.099609375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 950,
+          "score": 0.08837890625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 952,
+          "score": 0.083740234375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 954,
+          "score": 0.0693359375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 956,
+          "score": 0.050537109375
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 958,
+          "score": 0.0296630859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 959,
+          "score": 0.01275634765625
+        },
+        {
+          "label": "BB_turns_start",
+          "frame": 960,
+          "score": 0.015533447265625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 961,
+          "score": 0.022735595703125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 963,
+          "score": 0.030029296875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 965,
+          "score": 0.0439453125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 967,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 969,
+          "score": 0.063232421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 971,
+          "score": 0.075927734375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 973,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 975,
+          "score": 0.0614013671875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 977,
+          "score": 0.0594482421875
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 979,
+          "score": 0.01458740234375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 980,
+          "score": 0.06005859375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 982,
+          "score": 0.055908203125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 984,
+          "score": 0.0499267578125
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 986,
+          "score": 0.03704833984375
+        },
+        {
+          "label": "BB_turns_end",
+          "frame": 988,
+          "score": 0.018096923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1146,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1148,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1150,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1152,
+          "score": 0.0185546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1154,
+          "score": 0.02093505859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1156,
+          "score": 0.02764892578125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1158,
+          "score": 0.033447265625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1160,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1162,
+          "score": 0.071044921875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1164,
+          "score": 0.0679931640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1166,
+          "score": 0.0552978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1168,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1170,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1172,
+          "score": 0.041748046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1173,
+          "score": 0.01043701171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1175,
+          "score": 0.0443115234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1176,
+          "score": 0.015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1177,
+          "score": 0.03173828125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1178,
+          "score": 0.02435302734375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1179,
+          "score": 0.021240234375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1180,
+          "score": 0.0335693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1181,
+          "score": 0.01177978515625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1182,
+          "score": 0.0504150390625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1184,
+          "score": 0.091552734375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1186,
+          "score": 0.02740478515625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1187,
+          "score": 0.14111328125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1188,
+          "score": 0.0328369140625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1190,
+          "score": 0.08984375
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1192,
+          "score": 0.0626220703125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1194,
+          "score": 0.04736328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1195,
+          "score": 0.011035919189453125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1196,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1197,
+          "score": 0.0222625732421875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1198,
+          "score": 0.01605224609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1199,
+          "score": 0.016561508178710938
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1202,
+          "score": 0.0146636962890625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1204,
+          "score": 0.012783050537109375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1206,
+          "score": 0.01551055908203125
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1207,
+          "score": 0.011016845703125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1208,
+          "score": 0.013393402099609375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1211,
+          "score": 0.011529922485351562
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1229,
+          "score": 0.015575408935546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1231,
+          "score": 0.0212249755859375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1234,
+          "score": 0.0268096923828125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1236,
+          "score": 0.0273895263671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1238,
+          "score": 0.043701171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1241,
+          "score": 0.039276123046875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1243,
+          "score": 0.0425262451171875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1245,
+          "score": 0.10791015625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1247,
+          "score": 0.10693359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1249,
+          "score": 0.054443359375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1251,
+          "score": 0.03570556640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1253,
+          "score": 0.0252685546875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1255,
+          "score": 0.025634765625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1256,
+          "score": 0.015594482421875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1257,
+          "score": 0.011871337890625
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1260,
+          "score": 0.010498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1266,
+          "score": 0.0135498046875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1268,
+          "score": 0.0184326171875
+        },
+        {
+          "label": "BB_leap_jump_hop_end",
+          "frame": 1270,
+          "score": 0.01153564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1445,
+          "score": 0.01332855224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1447,
+          "score": 0.01678466796875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1449,
+          "score": 0.0185699462890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1451,
+          "score": 0.0224609375
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1453,
+          "score": 0.024658203125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1456,
+          "score": 0.02655029296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1458,
+          "score": 0.028961181640625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1460,
+          "score": 0.028564453125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1462,
+          "score": 0.02886962890625
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1464,
+          "score": 0.02899169921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1466,
+          "score": 0.020538330078125
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1468,
+          "score": 0.0301513671875
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1469,
+          "score": 0.011363983154296875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1470,
+          "score": 0.02508544921875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1472,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1472,
+          "score": 0.012176513671875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1474,
+          "score": 0.017242431640625
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1474,
+          "score": 0.015453338623046875
+        },
+        {
+          "label": "BB_flight_handspring_start",
+          "frame": 1476,
+          "score": 0.011260986328125
+        },
+        {
+          "label": "BB_leap_jump_hop_start",
+          "frame": 1476,
+          "score": 0.010112762451171875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1477,
+          "score": 0.013916015625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1479,
+          "score": 0.0139007568359375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1481,
+          "score": 0.01458740234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1483,
+          "score": 0.0163116455078125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1485,
+          "score": 0.02777099609375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1487,
+          "score": 0.021453857421875
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1487,
+          "score": 0.042449951171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1489,
+          "score": 0.057861328125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1489,
+          "score": 0.0465087890625
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1491,
+          "score": 0.022552490234375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1491,
+          "score": 0.0239715576171875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1493,
+          "score": 0.015655517578125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1494,
+          "score": 0.022796630859375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1496,
+          "score": 0.02142333984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1496,
+          "score": 0.0438232421875
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1498,
+          "score": 0.02325439453125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1498,
+          "score": 0.013275146484375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1499,
+          "score": 0.0638427734375
+        },
+        {
+          "label": "BB_flight_handspring_end",
+          "frame": 1500,
+          "score": 0.01641845703125
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1501,
+          "score": 0.0238037109375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1503,
+          "score": 0.010345458984375
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1505,
+          "score": 0.016021728515625
+        },
+        {
+          "label": "BB_dismounts_start",
+          "frame": 1513,
+          "score": 0.01385498046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1533,
+          "score": 0.01593017578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1535,
+          "score": 0.0382080078125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1537,
+          "score": 0.049072265625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1539,
+          "score": 0.07147216796875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1541,
+          "score": 0.05810546875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1543,
+          "score": 0.0950927734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1545,
+          "score": 0.1767578125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1546,
+          "score": 0.0107421875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1547,
+          "score": 0.044189453125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1548,
+          "score": 0.177734375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1550,
+          "score": 0.130859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1552,
+          "score": 0.12109375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1554,
+          "score": 0.10009765625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1556,
+          "score": 0.0986328125
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1558,
+          "score": 0.07373046875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1560,
+          "score": 0.056396484375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1562,
+          "score": 0.04150390625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1564,
+          "score": 0.0281982421875
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1566,
+          "score": 0.0211181640625
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1568,
+          "score": 0.015380859375
+        },
+        {
+          "label": "BB_dismounts_end",
+          "frame": 1570,
+          "score": 0.0106201171875
+        }
+      ],
+      "fps": 30.0,
+      "num_events": 217
+    },
+    {
+      "video": "nEoD3t5O3Hg_E_008416_008445",
+      "events": [
+        {
+          "label": "UB_circles_start",
+          "frame": 95,
+          "score": 0.063690185546875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 96,
+          "score": 0.01595306396484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 97,
+          "score": 0.153564453125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 98,
+          "score": 0.01905059814453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 98,
+          "score": 0.01287841796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 99,
+          "score": 0.22412109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 100,
+          "score": 0.015777587890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 100,
+          "score": 0.0150146484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 101,
+          "score": 0.2529296875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 102,
+          "score": 0.0232391357421875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 102,
+          "score": 0.02215576171875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 103,
+          "score": 0.416015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 104,
+          "score": 0.02918243408203125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 104,
+          "score": 0.02593994140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 105,
+          "score": 0.41015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 106,
+          "score": 0.0327911376953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 106,
+          "score": 0.0234375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 107,
+          "score": 0.29248046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 108,
+          "score": 0.02001190185546875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 108,
+          "score": 0.0130615234375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 109,
+          "score": 0.109619140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 111,
+          "score": 0.017852783203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 132,
+          "score": 0.028167724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 134,
+          "score": 0.013458251953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 143,
+          "score": 0.0121612548828125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 144,
+          "score": 0.17724609375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 144,
+          "score": 0.0223388671875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 145,
+          "score": 0.0220947265625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 146,
+          "score": 0.654296875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 146,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 147,
+          "score": 0.0303955078125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 147,
+          "score": 0.019195556640625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 148,
+          "score": 0.2578125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 148,
+          "score": 0.34375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 148,
+          "score": 0.011474609375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 150,
+          "score": 0.0135498046875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 150,
+          "score": 0.012847900390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 151,
+          "score": 0.0933837890625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 163,
+          "score": 0.17822265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 164,
+          "score": 0.044189453125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 165,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 166,
+          "score": 0.069580078125
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 194,
+          "score": 0.01797962188720703
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 197,
+          "score": 0.02301025390625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 197,
+          "score": 0.011404037475585938
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 198,
+          "score": 0.103515625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 198,
+          "score": 0.136932373046875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 199,
+          "score": 0.5673828125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 200,
+          "score": 0.034423828125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 200,
+          "score": 0.07669830322265625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 201,
+          "score": 0.197998046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 225,
+          "score": 0.010711669921875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 225,
+          "score": 0.016754150390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 227,
+          "score": 0.013397216796875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 227,
+          "score": 0.012481689453125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 238,
+          "score": 0.140869140625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 239,
+          "score": 0.0125732421875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 239,
+          "score": 0.02008056640625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 240,
+          "score": 0.62109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 241,
+          "score": 0.040130615234375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 241,
+          "score": 0.03387451171875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 242,
+          "score": 0.2158203125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 243,
+          "score": 0.0214385986328125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 244,
+          "score": 0.02264404296875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 291,
+          "score": 0.01702880859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 293,
+          "score": 0.091064453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 294,
+          "score": 0.012420654296875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 295,
+          "score": 0.03106689453125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 295,
+          "score": 0.2431640625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 296,
+          "score": 0.019927978515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 297,
+          "score": 0.03476715087890625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 297,
+          "score": 0.361328125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 298,
+          "score": 0.0830078125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 299,
+          "score": 0.0179443359375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 300,
+          "score": 0.03000640869140625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 300,
+          "score": 0.318359375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 301,
+          "score": 0.019775390625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 302,
+          "score": 0.0357818603515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 302,
+          "score": 0.2568359375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 303,
+          "score": 0.011749267578125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 304,
+          "score": 0.02452850341796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 304,
+          "score": 0.116943359375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 306,
+          "score": 0.031005859375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 327,
+          "score": 0.012298583984375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 338,
+          "score": 0.0123291015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 339,
+          "score": 0.1494140625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 340,
+          "score": 0.693359375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 340,
+          "score": 0.0599365234375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 341,
+          "score": 0.0189208984375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 341,
+          "score": 0.84765625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 342,
+          "score": 0.083251953125
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 357,
+          "score": 0.08740234375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 358,
+          "score": 0.83984375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 359,
+          "score": 0.0521240234375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 360,
+          "score": 0.3828125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 419,
+          "score": 0.0291748046875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 420,
+          "score": 0.34521484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 420,
+          "score": 0.027587890625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 421,
+          "score": 0.01666259765625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 421,
+          "score": 0.177001953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 422,
+          "score": 0.1177978515625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 423,
+          "score": 0.05810546875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 437,
+          "score": 0.0445556640625
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 438,
+          "score": 0.12056159973144531
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 438,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 438,
+          "score": 0.016815185546875
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 439,
+          "score": 0.02667236328125
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 440,
+          "score": 0.04811859130859375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 440,
+          "score": 0.213134765625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 451,
+          "score": 0.03594970703125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 452,
+          "score": 0.71484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 452,
+          "score": 0.01324462890625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 453,
+          "score": 0.0478515625
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 453,
+          "score": 0.1630859375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 454,
+          "score": 0.767578125
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 455,
+          "score": 0.017578125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 478,
+          "score": 0.037109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 479,
+          "score": 0.0775146484375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 479,
+          "score": 0.028839111328125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 479,
+          "score": 0.4482421875
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 480,
+          "score": 0.0129547119140625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 480,
+          "score": 0.02679443359375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 481,
+          "score": 0.29443359375
+        },
+        {
+          "label": "UB_fligh_same_bar_start",
+          "frame": 481,
+          "score": 0.02117919921875
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 481,
+          "score": 0.2109375
+        },
+        {
+          "label": "UB_transition_flight_start",
+          "frame": 483,
+          "score": 0.03717041015625
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 483,
+          "score": 0.02197265625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 513,
+          "score": 0.0902099609375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 513,
+          "score": 0.02203369140625
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 514,
+          "score": 0.019317626953125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 514,
+          "score": 0.21630859375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 515,
+          "score": 0.35986328125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 515,
+          "score": 0.01336669921875
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 516,
+          "score": 0.0628662109375
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 516,
+          "score": 0.148193359375
+        },
+        {
+          "label": "UB_transition_flight_end",
+          "frame": 517,
+          "score": 0.0132598876953125
+        },
+        {
+          "label": "UB_fligh_same_bar_end",
+          "frame": 518,
+          "score": 0.011444091796875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 573,
+          "score": 0.23486328125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 574,
+          "score": 0.03118896484375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 575,
+          "score": 0.650390625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 576,
+          "score": 0.033935546875
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 577,
+          "score": 0.23876953125
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 578,
+          "score": 0.010986328125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 628,
+          "score": 0.01971435546875
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 629,
+          "score": 0.120849609375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 630,
+          "score": 0.681640625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 630,
+          "score": 0.09449005126953125
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 631,
+          "score": 0.037109375
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 632,
+          "score": 0.447265625
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 632,
+          "score": 0.164459228515625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 633,
+          "score": 0.013092041015625
+        },
+        {
+          "label": "UB_circles_end",
+          "frame": 634,
+          "score": 0.0531005859375
+        },
+        {
+          "label": "UB_circles_start",
+          "frame": 634,
+          "score": 0.0336151123046875
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 651,
+          "score": 0.2041015625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 652,
+          "score": 0.0452880859375
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 653,
+          "score": 0.75390625
+        },
+        {
+          "label": "UB_dismounts_start",
+          "frame": 654,
+          "score": 0.093505859375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 717,
+          "score": 0.01174163818359375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 719,
+          "score": 0.105712890625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 721,
+          "score": 0.139404296875
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 722,
+          "score": 0.012969970703125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 723,
+          "score": 0.306640625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 724,
+          "score": 0.028564453125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 725,
+          "score": 0.490234375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 726,
+          "score": 0.022369384765625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 727,
+          "score": 0.17578125
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 729,
+          "score": 0.05474853515625
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 731,
+          "score": 0.03662109375
+        },
+        {
+          "label": "UB_dismounts_end",
+          "frame": 733,
+          "score": 0.0162353515625
+        }
+      ],
+      "fps": 25.0,
+      "num_events": 169
+    }
+  ]
+}

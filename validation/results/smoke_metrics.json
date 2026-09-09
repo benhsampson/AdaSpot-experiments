@@ -1,0 +1,521 @@
+{
+  "raw": {
+    "mAP": {
+      "0": 0.2590894637769638,
+      "1": 0.324585027100271,
+      "2": 0.3412510578288017,
+      "4": 0.3472132756019317
+    },
+    "mean_mAP": 0.318034706076992,
+    "AP_per_class": {
+      "BB_flight_handspring_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.006172839506172839
+      },
+      "BB_flight_handspring_end": {
+        "0": 0.0,
+        "1": 0.015625,
+        "2": 0.017857142857142856,
+        "4": 0.019230769230769232
+      },
+      "BB_flight_salto_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_flight_salto_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_turns_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.027777777777777776
+      },
+      "BB_turns_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.03225806451612903
+      },
+      "BB_leap_jump_hop_start": {
+        "0": 0.044444444444444446,
+        "1": 0.04878048780487805,
+        "2": 0.04878048780487805,
+        "4": 0.0625
+      },
+      "BB_leap_jump_hop_end": {
+        "0": 0.015625,
+        "1": 0.015625,
+        "2": 0.015625,
+        "4": 0.015625
+      },
+      "BB_dismounts_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_dismounts_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0196078431372549
+      },
+      "UB_circles_start": {
+        "0": 0.3162393162393162,
+        "1": 0.5291666666666667,
+        "2": 0.576923076923077,
+        "4": 0.5833333333333334
+      },
+      "UB_circles_end": {
+        "0": 0.4444444444444444,
+        "1": 0.5,
+        "2": 0.75,
+        "4": 0.75
+      },
+      "UB_transition_flight_start": {
+        "0": 0.6428571428571429,
+        "1": 0.8666666666666667,
+        "2": 0.8666666666666667,
+        "4": 0.8666666666666667
+      },
+      "UB_transition_flight_end": {
+        "0": 0.6,
+        "1": 0.7555555555555555,
+        "2": 0.7555555555555555,
+        "4": 0.7555555555555555
+      },
+      "UB_fligh_same_bar_start": {
+        "0": 0.26666666666666666,
+        "1": 0.2777777777777778,
+        "2": 0.2777777777777778,
+        "4": 0.2777777777777778
+      },
+      "UB_fligh_same_bar_end": {
+        "0": 0.8333333333333333,
+        "1": 0.8333333333333333,
+        "2": 0.8333333333333333,
+        "4": 0.8333333333333333
+      },
+      "UB_dismounts_start": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_dismounts_end": {
+        "0": 0.5,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      }
+    }
+  },
+  "nms": {
+    "mAP": {
+      "0": 0.19093364197530865,
+      "1": 0.3836750440917107,
+      "2": 0.3981812169312169,
+      "4": 0.40783528154851684
+    },
+    "mean_mAP": 0.3451562961366883,
+    "AP_per_class": {
+      "BB_flight_handspring_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0125
+      },
+      "BB_flight_handspring_end": {
+        "0": 0.0,
+        "1": 0.03125,
+        "2": 0.03125,
+        "4": 0.038461538461538464
+      },
+      "BB_flight_salto_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_flight_salto_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_turns_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.058823529411764705
+      },
+      "BB_turns_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_leap_jump_hop_start": {
+        "0": 0.0,
+        "1": 0.09523809523809523,
+        "2": 0.09523809523809523,
+        "4": 0.09761904761904762
+      },
+      "BB_leap_jump_hop_end": {
+        "0": 0.03125,
+        "1": 0.03125,
+        "2": 0.03125,
+        "4": 0.03125
+      },
+      "BB_dismounts_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_dismounts_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.03571428571428571
+      },
+      "UB_circles_start": {
+        "0": 0.1111111111111111,
+        "1": 0.6984126984126985,
+        "2": 0.8095238095238094,
+        "4": 0.8666666666666667
+      },
+      "UB_circles_end": {
+        "0": 0.6,
+        "1": 0.6,
+        "2": 0.75,
+        "4": 0.75
+      },
+      "UB_transition_flight_start": {
+        "0": 0.3333333333333333,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_transition_flight_end": {
+        "0": 0.1111111111111111,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_fligh_same_bar_start": {
+        "0": 0.25,
+        "1": 0.45,
+        "2": 0.45,
+        "4": 0.45
+      },
+      "UB_fligh_same_bar_end": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_dismounts_start": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_dismounts_end": {
+        "0": 0.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      }
+    }
+  },
+  "soft_nms": {
+    "mAP": {
+      "0": 0.2159621578099839,
+      "1": 0.3815281668222845,
+      "2": 0.39603433966179064,
+      "4": 0.4055056281771968
+    },
+    "mean_mAP": 0.34975757311781397,
+    "AP_per_class": {
+      "BB_flight_handspring_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0125
+      },
+      "BB_flight_handspring_end": {
+        "0": 0.0,
+        "1": 0.029411764705882353,
+        "2": 0.029411764705882353,
+        "4": 0.03571428571428571
+      },
+      "BB_flight_salto_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_flight_salto_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_turns_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.058823529411764705
+      },
+      "BB_turns_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_leap_jump_hop_start": {
+        "0": 0.0,
+        "1": 0.09523809523809523,
+        "2": 0.09523809523809523,
+        "4": 0.09761904761904762
+      },
+      "BB_leap_jump_hop_end": {
+        "0": 0.027777777777777776,
+        "1": 0.027777777777777776,
+        "2": 0.027777777777777776,
+        "4": 0.027777777777777776
+      },
+      "BB_dismounts_start": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.0
+      },
+      "BB_dismounts_end": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "4": 0.03333333333333333
+      },
+      "UB_circles_start": {
+        "0": 0.16390614216701171,
+        "1": 0.6984126984126985,
+        "2": 0.8095238095238094,
+        "4": 0.8666666666666667
+      },
+      "UB_circles_end": {
+        "0": 0.6,
+        "1": 0.6,
+        "2": 0.75,
+        "4": 0.75
+      },
+      "UB_transition_flight_start": {
+        "0": 0.4666666666666666,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_transition_flight_end": {
+        "0": 0.25396825396825395,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_fligh_same_bar_start": {
+        "0": 0.25,
+        "1": 0.41666666666666663,
+        "2": 0.41666666666666663,
+        "4": 0.41666666666666663
+      },
+      "UB_fligh_same_bar_end": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_dismounts_start": {
+        "0": 1.0,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      },
+      "UB_dismounts_end": {
+        "0": 0.125,
+        "1": 1.0,
+        "2": 1.0,
+        "4": 1.0
+      }
+    }
+  },
+  "frame_accuracy": 0.9846153846153847,
+  "foreground_detection_F1_exact": 0.43333333333333335,
+  "class_F1_exact": {
+    "BB_dismounts_end": 0.0,
+    "BB_dismounts_start": 0.0,
+    "BB_flight_handspring_end": 0.0,
+    "BB_flight_handspring_start": 0.0,
+    "BB_flight_salto_end": 0.0,
+    "BB_flight_salto_start": 0.0,
+    "BB_leap_jump_hop_end": 0.0,
+    "BB_leap_jump_hop_start": 0.0,
+    "BB_turns_end": 0.0,
+    "BB_turns_start": 0.0,
+    "FX_back_salto_end": 0.0,
+    "FX_back_salto_start": 0.0,
+    "FX_front_salto_end": 0.0,
+    "FX_front_salto_start": 0.0,
+    "FX_leap_jump_hop_end": 0.0,
+    "FX_leap_jump_hop_start": 0.0,
+    "FX_side_salto_end": 0.0,
+    "FX_side_salto_start": 0.0,
+    "FX_turns_end": 0.0,
+    "FX_turns_start": 0.0,
+    "UB_circles_end": 0.5,
+    "UB_circles_start": 0.3333333333333333,
+    "UB_dismounts_end": 0.0,
+    "UB_dismounts_start": 0.6666666666666666,
+    "UB_fligh_same_bar_end": 0.5,
+    "UB_fligh_same_bar_start": 0.4,
+    "UB_transition_flight_end": 0.6666666666666666,
+    "UB_transition_flight_start": 0.3333333333333333,
+    "VT_0": 0.0,
+    "VT_1": 0.0,
+    "VT_2": 0.0,
+    "VT_3": 0.0
+  },
+  "class_support": {
+    "BB_flight_handspring_start": 2,
+    "BB_flight_handspring_end": 2,
+    "BB_flight_salto_start": 1,
+    "BB_flight_salto_end": 1,
+    "BB_turns_start": 1,
+    "BB_turns_end": 1,
+    "BB_leap_jump_hop_start": 2,
+    "BB_leap_jump_hop_end": 2,
+    "BB_dismounts_start": 1,
+    "BB_dismounts_end": 1,
+    "UB_circles_start": 3,
+    "UB_circles_end": 3,
+    "UB_transition_flight_start": 3,
+    "UB_transition_flight_end": 3,
+    "UB_fligh_same_bar_start": 2,
+    "UB_fligh_same_bar_end": 2,
+    "UB_dismounts_start": 1,
+    "UB_dismounts_end": 1
+  },
+  "provenance": {
+    "checkpoint_sha256": "bb6ac478a93262b9e3f1bd96acba9f42f90af81538324d18467c55d4820cd384",
+    "config": {
+      "paths": {
+        "frame_dir": "/frame/dir",
+        "save_dir": "/save/dir"
+      },
+      "data": {
+        "dataset": "finegym",
+        "num_classes": 32,
+        "clip_len": 100,
+        "epoch_num_frames": 500000,
+        "mixup": true,
+        "store_mode": "store"
+      },
+      "training": {
+        "batch_size": 4,
+        "num_epochs": 100,
+        "warm_up_epochs": 5,
+        "start_val_epoch": 95,
+        "learning_rate": 0.0008,
+        "only_test": false,
+        "criterion": "map",
+        "num_workers": 8,
+        "lowres_loss": true,
+        "highres_loss": true
+      },
+      "model": {
+        "hr_dim": [
+          448,
+          796
+        ],
+        "hr_crop": [
+          448,
+          448
+        ],
+        "lr_dim": [
+          224,
+          398
+        ],
+        "lr_crop": [
+          224,
+          224
+        ],
+        "roi_size": [
+          112,
+          112
+        ],
+        "feature_arch": "rny004_gsf",
+        "blocks_temporal": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "aggregation": "max",
+        "temporal_arch": "gru",
+        "threshold": 0.3,
+        "padding": "replicate"
+      }
+    },
+    "source_hashes": {
+      "model/shift.py": "b39b0b09cdf8c975a408a4f060a89da77ca0590403cba4880c3551fe3acf0cdb",
+      "model/modules.py": "6ddef005b6f688c9cccbe48072306357e6583fe0703645ff0632dd8748ce731f",
+      "model/model.py": "13d89254187646712b0d0b74bd479ab28818573b3ebfca2906516828d5219dfc",
+      "model/impl/gsm.py": "f394b855f8f05e2ccd3bbd678117c3b7876a82231740cc1c1b62adf51507f6b1",
+      "model/impl/gsf.py": "e8e6e26f5ba446781cae82cd1162197c8bb7c36d0be97dae4d3730e0c6686733",
+      "dataset/frame.py": "2345300e1e72cb8038f4a3b9aed9d1e65ff2c940814582261265ad87bd7ddcd7",
+      "dataset/datasets.py": "911650f9785fe33aacba126e325a42d8d85689a93917e3e246644fefc06c51bf",
+      "util/score.py": "d6cdfc0f59e7cc359bf5b043abca75dbe4b25177c0e3b98ceffd71916c17a03c",
+      "util/io.py": "ddf9dbf480284b3d17b7150c893736856c54208e41b799987c8cb5d5e6beed66",
+      "util/eval.py": "6f93e169f2903f7fb2ab9cf15a3787db462c255ccb2d5bfb6caaf4297292fa92",
+      "util/dataset.py": "cff3fd6407133a1d5728496744c2785393c1372d9d18ff92ece6a10885c56955",
+      "util/constants.py": "a7e8abd54bd35248dc573de5c6699cfdaa79613d919c968b88c880a721109f46"
+    },
+    "pipeline_version": 1
+  },
+  "background_only_frame_accuracy": 0.9863247863247864,
+  "num_clips": 2,
+  "num_frames": 2340,
+  "timings": [
+    {
+      "video": "5Bfx6Wz3KKs_E_019366_019418",
+      "signature": "16ff19128d72b4f78d41cf608c91c4cea895a34929e4424820e65f7c2c3e66d9",
+      "windows": 31,
+      "seconds": 7.600086290389299,
+      "peak_allocated_bytes": 1525325312,
+      "peak_reserved_bytes": 1782579200,
+      "cache_used": false
+    },
+    {
+      "video": "nEoD3t5O3Hg_E_008416_008445",
+      "signature": "1c35c09f7eccf6a5a50e713d964dd2123c6054f654fba9f72d6240213f435669",
+      "windows": 15,
+      "seconds": 3.1534773856401443,
+      "peak_allocated_bytes": 1525325312,
+      "peak_reserved_bytes": 1828716544,
+      "cache_used": false
+    }
+  ],
+  "precision": "BF16 autocast; FP32 overlap accumulation",
+  "batch_size": 1,
+  "clip_len": 100,
+  "overlap": 50,
+  "alignment_caveat": "Integer-second archive trim origin inferred from event IDs and video durations; full-source frame identity not available.",
+  "seed": 1
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "video": "5Bfx6Wz3KKs_E_019366_019418",
+    "events": [],
+    "fps": 30.0
+  },
+  {
+    "video": "nEoD3t5O3Hg_E_008416_008445",
+    "events": [
+      {
+        "label": "UB_circles_end",
+        "frame": 146,
+        "score": 0.654296875
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 147,
+        "score": 0.486328125
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 164,
+        "score": 0.70703125
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 165,
+        "score": 0.75390625
+      },
+      {
+        "label": "UB_transition_flight_start",
+        "frame": 199,
+        "score": 0.5673828125
+      },
+      {
+        "label": "UB_transition_flight_start",
+        "frame": 200,
+        "score": 0.55078125
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 240,
+        "score": 0.62109375
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 241,
+        "score": 0.5419921875
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 339,
+        "score": 0.59765625
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 340,
+        "score": 0.693359375
+      },
+      {
+        "label": "UB_transition_flight_start",
+        "frame": 341,
+        "score": 0.84765625
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 358,
+        "score": 0.83984375
+      },
+      {
+        "label": "UB_transition_flight_end",
+        "frame": 359,
+        "score": 0.833984375
+      },
+      {
+        "label": "UB_fligh_same_bar_start",
+        "frame": 438,
+        "score": 0.447265625
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 452,
+        "score": 0.71484375
+      },
+      {
+        "label": "UB_fligh_same_bar_start",
+        "frame": 453,
+        "score": 0.65234375
+      },
+      {
+        "label": "UB_fligh_same_bar_start",
+        "frame": 454,
+        "score": 0.767578125
+      },
+      {
+        "label": "UB_fligh_same_bar_end",
+        "frame": 479,
+        "score": 0.4482421875
+      },
+      {
+        "label": "UB_fligh_same_bar_end",
+        "frame": 480,
+        "score": 0.4287109375
+      },
+      {
+        "label": "UB_circles_start",
+        "frame": 574,
+        "score": 0.4990234375
+      },
+      {
+        "label": "UB_circles_start",
+        "frame": 575,
+        "score": 0.650390625
+      },
+      {
+        "label": "UB_circles_start",
+        "frame": 576,
+        "score": 0.54296875
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 629,
+        "score": 0.4833984375
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 630,
+        "score": 0.681640625
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 631,
+        "score": 0.59375
+      },
+      {
+        "label": "UB_circles_end",
+        "frame": 632,
+        "score": 0.447265625
+      },
+      {
+        "label": "UB_dismounts_start",
+        "frame": 652,
+        "score": 0.724609375
+      },
+      {
+        "label": "UB_dismounts_start",
+        "frame": 653,
+        "score": 0.75390625
+      }
+    ],
+    "fps": 25.0
+  }
+]
