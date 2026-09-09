@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "verified_inputs": 22,
+  "verified_eval_clips": 20,
+  "verified_classes": 32,
+  "checks": [
+    "input video SHA-256",
+    "extracted frame SHA-256",
+    "original labels and absolute event frame conservation",
+    "source-video train/test disjointness",
+    "finite fully covered scores",
+    "frame accuracy recomputation",
+    "native mAP recomputation",
+    "native source hashes",
+    "strict full-module weight loading evidence",
+    "finite native main and auxiliary losses",
+    "gradient and parameter update evidence",
+    "VRAM fit",
+    "readable visualizations"
+  ],
+  "limitation": "Archive trim origins are inferred from integer-second event IDs, not independently matched to full source video frames. Metrics describe this transformed subset, not the original full benchmark."
+}

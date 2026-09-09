@@ -323,6 +323,6 @@
   ],
   "test_class_count": 32,
   "retained_video_bytes": 194432641,
-  "range_bytes_this_run": 158286634,
+  "range_bytes_this_run": 0,
   "source_video_split_disjoint": true
 }

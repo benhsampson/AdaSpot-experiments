@@ -1,0 +1,83 @@
+{
+  "loss": 0.34972965717315674,
+  "head_losses": {
+    "main": 0.32217901945114136,
+    "highres": 0.3427049219608307,
+    "lowres": 0.38430503010749817
+  },
+  "native_training_method": "AdaSpot.epoch",
+  "optimizer": "AdamW",
+  "optimizer_steps": 1,
+  "learning_rate": 0.0008,
+  "batch_size": 2,
+  "clip_len": 100,
+  "mixup": true,
+  "auxiliary_heads_present": true,
+  "head_outputs": [
+    {
+      "im_feat": [
+        2,
+        100,
+        33
+      ],
+      "im_feat_highres": [
+        2,
+        100,
+        33
+      ],
+      "im_feat_lowres": [
+        2,
+        100,
+        33
+      ]
+    }
+  ],
+  "gradient_groups": {
+    "_pred_fine": 0.17723859603483655,
+    "_temp_fine": 0.06223599855112305,
+    "_pred_fine_lowres": 0.22109738866048723,
+    "_temp_fine_lowres": 0.06599490823025395,
+    "_pred_fine_highres": 0.1805217756215927,
+    "_temp_fine_highres": 0.0709142128935025,
+    "temp_enc": 0.0647646114230156,
+    "highres_linear": 0.11449944078751227,
+    "lowres_linear": 0.1779225161344597,
+    "highres_backbone": 0.3960439361489096,
+    "lowres_backbone": 0.33705105369454885
+  },
+  "all_gradient_tensors_finite": true,
+  "gradient_tensors": 741,
+  "parameters_without_grad": [],
+  "parameter_update_norms": {
+    "temp_enc": 0.16769690811634064,
+    "lowres_backbone": 1.3579950142626271,
+    "highres_backbone": 1.2576144253197992,
+    "lowres_linear": 0.2669931864565067,
+    "highres_linear": 0.19921765683093176,
+    "_temp_fine": 1.1648729967774316,
+    "_pred_fine": 0.13497724600354338,
+    "_temp_fine_highres": 1.1498890058979894,
+    "_pred_fine_highres": 0.13464575735248288,
+    "_temp_fine_lowres": 1.155987536776577,
+    "_pred_fine_lowres": 0.13485090363582525
+  },
+  "all_updated_parameters_finite": true,
+  "windows": [
+    {
+      "video": "cSh74jSRht8_E_004282_004333",
+      "start": 802,
+      "positive_frames": 3
+    },
+    {
+      "video": "esQQbBhuXbM_E_002103_002211",
+      "start": 1230,
+      "positive_frames": 2
+    }
+  ],
+  "seconds": 1.8061343170702457,
+  "peak_allocated_bytes": 9425001984,
+  "peak_reserved_bytes": 9542041600,
+  "checkpoint_saved": false,
+  "checkpoint_sha256_after": "bb6ac478a93262b9e3f1bd96acba9f42f90af81538324d18467c55d4820cd384",
+  "checkpoint_unchanged": true
+}

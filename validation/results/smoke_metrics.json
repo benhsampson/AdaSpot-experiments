@@ -485,7 +485,10 @@
       "util/io.py": "ddf9dbf480284b3d17b7150c893736856c54208e41b799987c8cb5d5e6beed66",
       "util/eval.py": "6f93e169f2903f7fb2ab9cf15a3787db462c255ccb2d5bfb6caaf4297292fa92",
       "util/dataset.py": "cff3fd6407133a1d5728496744c2785393c1372d9d18ff92ece6a10885c56955",
-      "util/constants.py": "a7e8abd54bd35248dc573de5c6699cfdaa79613d919c968b88c880a721109f46"
+      "util/constants.py": "a7e8abd54bd35248dc573de5c6699cfdaa79613d919c968b88c880a721109f46",
+      "scripts/validation_checks.py": "2243fe31cfbd1c53e3b28fbc6420e732ba7486a74dbef56252c70ecf410ee117",
+      "scripts/validate_adaspot.py": "51f5b6a948b2cedaf9ce898d5b0dba34f08e08ad6cc5d5b96d9db24bd2f30b1e",
+      "validation/requirements.lock": "d412ca34d2b3aa65c6eb9ff059125d0fe322828f15970364147d0a19e1b537dd"
     },
     "pipeline_version": 1
   },
@@ -495,18 +498,18 @@
   "timings": [
     {
       "video": "5Bfx6Wz3KKs_E_019366_019418",
-      "signature": "16ff19128d72b4f78d41cf608c91c4cea895a34929e4424820e65f7c2c3e66d9",
+      "signature": "c66595a368ae5a8fee516739e8c3754782e8f542459703e9301a54a41c72bf16",
       "windows": 31,
-      "seconds": 7.600086290389299,
+      "seconds": 7.598314709961414,
       "peak_allocated_bytes": 1525325312,
       "peak_reserved_bytes": 1782579200,
       "cache_used": false
     },
     {
       "video": "nEoD3t5O3Hg_E_008416_008445",
-      "signature": "1c35c09f7eccf6a5a50e713d964dd2123c6054f654fba9f72d6240213f435669",
+      "signature": "ed60d8542dc96505f4c08daa58cdd6ae4811ef73330a9174de696176957f8eb1",
       "windows": 15,
-      "seconds": 3.1534773856401443,
+      "seconds": 3.120292730629444,
       "peak_allocated_bytes": 1525325312,
       "peak_reserved_bytes": 1828716544,
       "cache_used": false

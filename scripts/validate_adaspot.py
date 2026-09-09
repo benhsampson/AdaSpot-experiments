@@ -61,6 +61,8 @@ def main():
     p.add_argument('stage', choices=['checkpoint', 'smoke', 'evaluate', 'train'])
     p.add_argument('--model', default='FineGym_big')
     args = p.parse_args()
+    if args.stage != 'checkpoint' and args.model != 'FineGym_big':
+        p.error('The frozen subset and validation stages require --model FineGym_big')
     torch.set_num_threads(8)
     model, cfg, classes = load_model(args.model)
     if args.stage != 'checkpoint':

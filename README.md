@@ -26,6 +26,10 @@ Precise Event Spotting (PES) focuses on identifying the exact frame where a fast
 ![Demo](visualizations/video.gif)
 
 
+## Validated setup and fine-tuning readiness
+
+See [the reproducible validation guide](docs/validation.md) for the pinned `uv` environment, selective FineGym downloads, strict checkpoint loading, labeled inference, and a native training-step check. Run `bash scripts/run_validation.sh` to reproduce the workflow.
+
 ## Environment
 
 All required dependencies are listed in `requirements.txt`. To install them in a Python or Conda environment, run:

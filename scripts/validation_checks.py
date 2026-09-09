@@ -54,6 +54,8 @@ def inference(model,cfg,classes,stage):
     manifest=json.loads((ROOT/'validation/subset.json').read_text())
     inputs={x['original']['video']:x['sha256'] for x in manifest['clips'] if 'sha256' in x}
     source_hashes={str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for folder in ['model','dataset','util'] for p in (ROOT/folder).rglob('*.py')}
+    for rel in ['scripts/validation_checks.py','scripts/validate_adaspot.py','validation/requirements.lock']:
+        source_hashes[rel]=hashlib.sha256((ROOT/rel).read_bytes()).hexdigest()
     common={'checkpoint_sha256':checkpoint['sha256'],'config':cfg,'source_hashes':source_hashes,'pipeline_version':1}
     pred_dict={}; timings=[]
     for row in rows:

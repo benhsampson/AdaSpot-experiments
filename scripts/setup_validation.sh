@@ -45,10 +45,13 @@ for line in Path('validation/requirements.lock').read_text().splitlines():
 assert not errors, errors
 assert torch.cuda.is_available()
 x=torch.randn(32,32,device='cuda'); assert torch.isfinite(x@x).all()
-report={'python':platform.python_version(),'torch':torch.__version__,'torchvision':torchvision.__version__,
+report={'repository_commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),
+ 'repository_status':subprocess.check_output(['git','status','--short'],text=True),
+ 'python':platform.python_version(),'torch':torch.__version__,'torchvision':torchvision.__version__,
  'cuda_runtime':torch.version.cuda,'gpu':torch.cuda.get_device_name(0),
  'gpu_bytes':torch.cuda.get_device_properties(0).total_memory,'cuda_arches':torch.cuda.get_arch_list(),
- 'packages':{d.metadata['Name']:d.version for d in m.distributions()},
+ 'packages':{name:m.version(name) for name in sorted({d.metadata['Name'] for d in m.distributions()})},
+ 'package_locations':{name:str(m.distribution(name).locate_file('')) for name in ['torch','torchvision','numpy','timm','opencv-python']},
  'nvidia_smi':subprocess.check_output(['nvidia-smi'],text=True),
  'lscpu':subprocess.check_output(['lscpu'],text=True),
  'memory':subprocess.check_output(['free','-h'],text=True),
